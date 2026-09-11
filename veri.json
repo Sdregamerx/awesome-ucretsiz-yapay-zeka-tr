@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-09",
+   "son_test": "2026-09-11",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "chinese-char-counter-mcp",
+   "aciklama": "MCP server (stdio) that counts Chinese characters in a text, excluding punctuation, whitespace, Latin letters and digits.",
+   "surum": "0.1.1",
+   "ozet": "MCP server (stdio) that counts Chinese characters in a text, excluding punctuation, whitespace, Latin letters and digits.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/YeTor53/chinese_char_counter_mcp_yetor",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/chinese-char-counter-mcp/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "sema-core",
+   "aciklama": "Python SDK for sema-core: thin client over the sema-grpc bridge",
+   "surum": "2.1.0",
+   "ozet": "Python SDK for sema-core: thin client over the sema-grpc bridge",
+   "surum_sayisi": 9,
+   "depo": "https://github.com/midea-ai/sema-code-core/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/sema-core/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pykokoro",
+   "aciklama": "A python library for Kokoro TTS",
+   "surum": "0.9.4",
+   "ozet": "A python library for Kokoro TTS",
+   "surum_sayisi": 29,
+   "depo": "https://github.com/buchwandler/pykokoro/releases",
+   "lisans": "Apache License\n                         ",
+   "adres": "https://pypi.org/project/pykokoro/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "protolib",
+   "aciklama": "Pure-Python, from-scratch declarative binary protocol (de)serializer — node-protodef style YAML/JSON for any binary protocol, plus real Google Protocol Buffers (.proto) parsing and wire-format support.",
+   "surum": "0.4.4",
+   "ozet": "Pure-Python, from-scratch declarative binary protocol (de)serializer — node-protodef style YAML/JSON for any binary protocol, plus real Google Protocol Buffers (.proto) parsing and wire-format support.",
+   "surum_sayisi": 14,
+   "depo": "https://github.com/servid124-ux/protolib",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/protolib/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "prompt-flamegraph",
+   "aciklama": "Lightweight, dependency-free prompt context flamegraph generator for LLMs",
+   "surum": "0.3.0",
+   "ozet": "Lightweight, dependency-free prompt context flamegraph generator for LLMs",
+   "surum_sayisi": 6,
+   "depo": "https://github.com/fjjjuv/prompt-flamegraph",
+   "lisans": "LGPL-3.0-or-later",
+   "adres": "https://pypi.org/project/prompt-flamegraph/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
   {
    "kaynak": "pypi",
    "ad": "hasdata-yelp-mcp",
@@ -242,6 +317,131 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "datawhalechina/zero-to-sglang",
+   "aciklama": "Official SGLang × Datawhale course on LLM inference (中英双语): understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. 《从零手搓SGLang》：读懂推理，手搓 mini-sglang，吃透 SGLang 源码。",
+   "yildiz": 732,
+   "yildiz_hizi": 48.8,
+   "dil": "Python",
+   "adres": "https://github.com/datawhalechina/zero-to-sglang",
+   "konular": [
+    "cuda",
+    "datawhale",
+    "inference-engine",
+    "infra",
+    "kv-cache",
+    "llm",
+    "llm-inference",
+    "sglang",
+    "tutorial"
+   ],
+   "yas_gun": 15,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "github",
+   "ad": "tigerless-labs/agent-memory",
+   "aciklama": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+   "yildiz": 963,
+   "yildiz_hizi": 107.0,
+   "dil": "Python",
+   "adres": "https://github.com/tigerless-labs/agent-memory",
+   "konular": [
+    "agent-memory",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "llm",
+    "local-first",
+    "long-term-memory",
+    "markdown",
+    "mcp",
+    "python",
+    "retrieval",
+    "sqlite"
+   ],
+   "yas_gun": 9,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Player-YN/PawWork_ZhuaZhua",
+   "aciklama": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+   "yildiz": 2546,
+   "yildiz_hizi": 195.8,
+   "dil": "JavaScript",
+   "adres": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+   "konular": [
+    "ai-agent",
+    "browser-agent",
+    "byok",
+    "chrome-extension",
+    "llm",
+    "pptx",
+    "tldraw",
+    "univer"
+   ],
+   "yas_gun": 13,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "github",
+   "ad": "jzjzzzzzzz/agent-me",
+   "aciklama": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
+   "yildiz": 184,
+   "yildiz_hizi": 12.3,
+   "dil": "Python",
+   "adres": "https://github.com/jzjzzzzzzz/agent-me",
+   "konular": [
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "digital-twin",
+    "knowledge-graph",
+    "llm",
+    "memory",
+    "multi-agent",
+    "personal-ai",
+    "rag"
+   ],
+   "yas_gun": 15,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
+  {
+   "kaynak": "github",
+   "ad": "crwdla/tokentab",
+   "aciklama": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+   "yildiz": 318,
+   "yildiz_hizi": 106.0,
+   "dil": "Python",
+   "adres": "https://github.com/crwdla/tokentab",
+   "konular": [
+    "ai",
+    "ai-token-monitor",
+    "claude-code",
+    "token-optimization",
+    "token-usage"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-11"
+  },
   {
    "kaynak": "github",
    "ad": "Nanako0129/sepia",
@@ -521,6 +721,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-09-11",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-09",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
