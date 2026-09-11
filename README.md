@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-09-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-11-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-09 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-09 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-09 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-09 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-09 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-09 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-09 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-09 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-11 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-11 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-11 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-11 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-11 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-11 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-11 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-11 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [chinese-char-counter-mcp](https://pypi.org/project/chinese-char-counter-mcp/) | 0.1.1 | MCP server (stdio) that counts Chinese characters in a text, excluding punctuation, whites | 80 | 2026-09-11 |
+| [sema-core](https://pypi.org/project/sema-core/) | 2.1.0 | Python SDK for sema-core: thin client over the sema-grpc bridge | 90 | 2026-09-11 |
+| [pykokoro](https://pypi.org/project/pykokoro/) | 0.9.4 | A python library for Kokoro TTS | 90 | 2026-09-11 |
+| [protolib](https://pypi.org/project/protolib/) | 0.4.4 | Pure-Python, from-scratch declarative binary protocol (de)serializer — node-protodef style | 95 | 2026-09-11 |
+| [prompt-flamegraph](https://pypi.org/project/prompt-flamegraph/) | 0.3.0 | Lightweight, dependency-free prompt context flamegraph generator for LLMs | 95 | 2026-09-11 |
 | [hasdata-yelp-mcp](https://pypi.org/project/hasdata-yelp-mcp/) | 1.0.0 | MCP server for Yelp through HasData's hosted API. 1,000 free credits every month. | 65 | 2026-09-09 |
 | [VeraGridMcp](https://pypi.org/project/VeraGridMcp/) | 6.5.24 | VeraGrid is a Power Systems simulation program intended for professional use and research | 65 | 2026-09-09 |
 | [netops-api-navigator](https://pypi.org/project/netops-api-navigator/) | 0.3.0 | Independent MCP server for graph-backed network API discovery and automation | 65 | 2026-09-09 |
@@ -52,6 +57,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [datawhalechina/zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) | Official SGLang × Datawhale course on LLM inference (中英双语): understand inference | 732 | 48.8 | 2026-09-11 |
+| [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | Long-term memory runtime for AI agents — plain Markdown as the source of truth,  | 963 | 107.0 | 2026-09-11 |
+| [Player-YN/PawWork_ZhuaZhua](https://github.com/Player-YN/PawWork_ZhuaZhua) | Paw Work - selection-first web agent for Chrome: select on the live page, descri | 2546 | 195.8 | 2026-09-11 |
+| [jzjzzzzzzz/agent-me](https://github.com/jzjzzzzzzz/agent-me) | Distill your knowledge, memories, and decisions into an open-source, inspectable | 184 | 12.3 | 2026-09-11 |
+| [crwdla/tokentab](https://github.com/crwdla/tokentab) | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out h | 318 | 106.0 | 2026-09-11 |
 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL | 2486 | 207.2 | 2026-09-09 |
 | [useagenthq/useagent](https://github.com/useagenthq/useagent) | The open-source AI coworker for your team: agents with their own cloud computer, | 284 | 28.4 | 2026-09-09 |
 | [bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills) | 1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다 | 362 | 21.3 | 2026-09-09 |
@@ -71,6 +81,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-09-11** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
