@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-11",
+   "son_test": "2026-09-15",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "tokenspeed-smg-grpc-servicer",
+   "aciklama": "SMG gRPC servicer implementations for LLM inference engines (vLLM, MLX, TokenSpeed, SGLang)",
+   "surum": "0.9.1.post20260915",
+   "ozet": "SMG gRPC servicer implementations for LLM inference engines (vLLM, MLX, TokenSpeed, SGLang)",
+   "surum_sayisi": 45,
+   "depo": "https://github.com/smg-project/smg",
+   "lisans": "",
+   "adres": "https://pypi.org/project/tokenspeed-smg-grpc-servicer/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "prauga-flexdoc",
+   "aciklama": "Self-contained ASGI and WSGI adapters for the Prauga FlexDoc OpenAPI renderer",
+   "surum": "0.7.3",
+   "ozet": "Self-contained ASGI and WSGI adapters for the Prauga FlexDoc OpenAPI renderer",
+   "surum_sayisi": 11,
+   "depo": "https://github.com/prauga/flexdoc",
+   "lisans": "",
+   "adres": "https://pypi.org/project/prauga-flexdoc/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "mixpeek",
+   "aciklama": "Mixpeek: the semantic retrieval layer for unstructured and multimodal data",
+   "surum": "1.3.688",
+   "ozet": "Mixpeek: the semantic retrieval layer for unstructured and multimodal data",
+   "surum_sayisi": 831,
+   "depo": "https://github.com/mixpeek/mixpeek",
+   "lisans": "",
+   "adres": "https://pypi.org/project/mixpeek/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "tokenspeed-smg-grpc-proto",
+   "aciklama": "SMG gRPC proto definitions for vLLM, TRT-LLM, MLX, TokenSpeed, and SGLang",
+   "surum": "0.4.18.post20260915",
+   "ozet": "SMG gRPC proto definitions for vLLM, TRT-LLM, MLX, TokenSpeed, and SGLang",
+   "surum_sayisi": 45,
+   "depo": "https://github.com/smg-project/smg",
+   "lisans": "",
+   "adres": "https://pypi.org/project/tokenspeed-smg-grpc-proto/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "llmtrim",
+   "aciklama": "Static, deterministic LLM prompt/payload compression that cuts input tokens 30-90% with zero extra model calls.",
+   "surum": "0.13.5",
+   "ozet": "Static, deterministic LLM prompt/payload compression that cuts input tokens 30-90% with zero extra model calls.",
+   "surum_sayisi": 47,
+   "depo": "https://github.com/fkiene/llmtrim",
+   "lisans": "MPL-2.0",
+   "adres": "https://pypi.org/project/llmtrim/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
   {
    "kaynak": "pypi",
    "ad": "chinese-char-counter-mcp",
@@ -317,6 +392,130 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "rome-os/rome",
+   "aciklama": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
+   "yildiz": 499,
+   "yildiz_hizi": 21.7,
+   "dil": "TypeScript",
+   "adres": "https://github.com/rome-os/rome",
+   "konular": [
+    "agent",
+    "agent-os",
+    "ai-agent",
+    "ai-assistant",
+    "claude-code",
+    "codex",
+    "grok-bot-alternative",
+    "llm",
+    "muse-alternative",
+    "open-source",
+    "personal-ai",
+    "self-hosted",
+    "workflow-automation"
+   ],
+   "yas_gun": 23,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "github",
+   "ad": "panxunying/ai-coding-welfare",
+   "aciklama": "AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+   "yildiz": 680,
+   "yildiz_hizi": 27.2,
+   "dil": "JavaScript",
+   "adres": "https://github.com/panxunying/ai-coding-welfare",
+   "konular": [
+    "ai-coding",
+    "anthropic",
+    "api-proxy",
+    "claude-code",
+    "codex",
+    "free-api",
+    "free-quota",
+    "llm",
+    "new-api",
+    "openai"
+   ],
+   "yas_gun": 25,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "github",
+   "ad": "bojieli/ai-infra-book",
+   "aciklama": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+   "yildiz": 3113,
+   "yildiz_hizi": 135.3,
+   "dil": "Python",
+   "adres": "https://github.com/bojieli/ai-infra-book",
+   "konular": [
+    "accelerator",
+    "ai-infra",
+    "ai-infrastructure",
+    "book",
+    "datacenter-network",
+    "deepseek",
+    "distributed-systems",
+    "gpu",
+    "kv-cache",
+    "llm",
+    "llm-inference",
+    "llm-serving",
+    "llm-training",
+    "mixture-of-experts",
+    "performance-engineering"
+   ],
+   "yas_gun": 23,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "github",
+   "ad": "kruzovic7/ai-data-extractor",
+   "aciklama": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+   "yildiz": 813,
+   "yildiz_hizi": 271.0,
+   "dil": "Python",
+   "adres": "https://github.com/kruzovic7/ai-data-extractor",
+   "konular": [
+    "ai",
+    "ai-data-extraction",
+    "claude-code",
+    "cursor"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
+  {
+   "kaynak": "github",
+   "ad": "jtydhr88/screenwriting-skills",
+   "aciklama": "Professional agent skills for screenwriting, television writing and dramaturgy",
+   "yildiz": 1123,
+   "yildiz_hizi": 140.4,
+   "dil": "Python",
+   "adres": "https://github.com/jtydhr88/screenwriting-skills",
+   "konular": [
+    "ai",
+    "skills"
+   ],
+   "yas_gun": 8,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-15"
+  },
   {
    "kaynak": "github",
    "ad": "datawhalechina/zero-to-sglang",
@@ -721,6 +920,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-09-15",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-11",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
