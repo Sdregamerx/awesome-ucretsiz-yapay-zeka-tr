@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-15",
+   "son_test": "2026-09-18",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "fomo-iqa",
+   "aciklama": "FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance — reference-based perceptual distance models trained on diffusion-generated (FLUX) image pairs",
+   "surum": "1.0.1",
+   "ozet": "FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance — reference-based perceptual distance models trained on diffusion-generated (FLUX) image pairs",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/JHLew/FoMo",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/fomo-iqa/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "gitea-toolkit-mcp",
+   "aciklama": "Gitea 的 MCP 工具服务（stdio）：仓库 / Issue / Pull Request / 通知 / Gitea Actions 的读写。与 gitea-toolkit 扩展同源，任何 MCP 客户端均可接入。",
+   "surum": "0.9.4",
+   "ozet": "Gitea 的 MCP 工具服务（stdio）：仓库 / Issue / Pull Request / 通知 / Gitea Actions 的读写。与 gitea-toolkit 扩展同源，任何 MCP 客户端均可接入。",
+   "surum_sayisi": 3,
+   "depo": "https://github.com/Echo-Note/gitea-toolkit",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/gitea-toolkit-mcp/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pypepper",
+   "aciklama": "PyPepper is a microservice toolkit written in Python.",
+   "surum": "0.6.6",
+   "ozet": "PyPepper is a microservice toolkit written in Python.",
+   "surum_sayisi": 22,
+   "depo": "https://github.com/jovijovi/pypepper",
+   "lisans": "",
+   "adres": "https://pypi.org/project/pypepper/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "entropy-data",
+   "aciklama": "CLI for Entropy Data",
+   "surum": "0.3.22",
+   "ozet": "CLI for Entropy Data",
+   "surum_sayisi": 23,
+   "depo": "https://github.com/entropy-data/entropy-data-cli/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/entropy-data/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "danvas",
+   "aciklama": "A browser-based spatial canvas with UI panels defined and controlled from Python.",
+   "surum": "0.7.0",
+   "ozet": "A browser-based spatial canvas with UI panels defined and controlled from Python.",
+   "surum_sayisi": 14,
+   "depo": "https://github.com/DanielChahine004/danvas",
+   "lisans": "",
+   "adres": "https://pypi.org/project/danvas/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
   {
    "kaynak": "pypi",
    "ad": "tokenspeed-smg-grpc-servicer",
@@ -392,6 +467,143 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "Colafornia/short-video-generator-AI",
+   "aciklama": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+   "yildiz": 744,
+   "yildiz_hizi": 82.7,
+   "dil": "Python",
+   "adres": "https://github.com/Colafornia/short-video-generator-AI",
+   "konular": [
+    "ai",
+    "ai-generation",
+    "short-video",
+    "short-video-maker"
+   ],
+   "yas_gun": 9,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Human-Agent-Society/reef",
+   "aciklama": "Continual learning infra for self-improving agents",
+   "yildiz": 3504,
+   "yildiz_hizi": 194.7,
+   "dil": "Python",
+   "adres": "https://github.com/Human-Agent-Society/reef",
+   "konular": [
+    "agent-infrastructure",
+    "ai-agents",
+    "continual-learning",
+    "inference",
+    "llm",
+    "llm-training",
+    "reinforcement-learning",
+    "self-improving-agents"
+   ],
+   "yas_gun": 18,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "github",
+   "ad": "jub0t/Concat",
+   "aciklama": "Open-Source CapCut replacement (MCP supported).",
+   "yildiz": 2751,
+   "yildiz_hizi": 119.6,
+   "dil": "Rust",
+   "adres": "https://github.com/jub0t/Concat",
+   "konular": [
+    "audio-processor",
+    "auto-caption",
+    "automation",
+    "capcut",
+    "capcut-alternative",
+    "content-creation",
+    "cross-platform",
+    "desktop-app",
+    "ffmpeg",
+    "free-video-editor",
+    "non-linear-editor",
+    "offline-first",
+    "open-source-video-editor",
+    "rust-lang",
+    "slint",
+    "video-editing",
+    "video-editing-software",
+    "video-processing-tool",
+    "whisper-cpp"
+   ],
+   "yas_gun": 23,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "github",
+   "ad": "yuyuanweb/ai-picture-editor",
+   "aciklama": "2026 年编程导航 AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI 修图智能体，支持自然语言驱动修图、21 种编辑工具、文生图、智能抠图、图层拆分、区域编辑、多步计划。覆盖 AI Agent 架构、SSE 实时推送、异步任务队列、Canvas 画布引擎。用一套教程掌握 AI Agent 全栈开发，不到一周学完，给你的简历增加竞争力",
+   "yildiz": 180,
+   "yildiz_hizi": 10.6,
+   "dil": "Python",
+   "adres": "https://github.com/yuyuanweb/ai-picture-editor",
+   "konular": [
+    "ai",
+    "ai-agent",
+    "ai-image",
+    "async-queue",
+    "canvas-editor",
+    "fastapi",
+    "full-stack",
+    "image-editing",
+    "inpainting",
+    "konva",
+    "langchain",
+    "langgraph",
+    "layer-system",
+    "python",
+    "react",
+    "segment-anything",
+    "sse",
+    "text-to-image",
+    "tutorial",
+    "typescript"
+   ],
+   "yas_gun": 17,
+   "puan": 96,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
+  {
+   "kaynak": "github",
+   "ad": "awlevin/typesafe-computer-use",
+   "aciklama": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+   "yildiz": 182,
+   "yildiz_hizi": 182.0,
+   "dil": "Python",
+   "adres": "https://github.com/awlevin/typesafe-computer-use",
+   "konular": [
+    "ai-agents",
+    "automation",
+    "computer-use",
+    "macos",
+    "ocr",
+    "typesafe"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-18"
+  },
   {
    "kaynak": "github",
    "ad": "rome-os/rome",
@@ -920,6 +1132,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-09-18",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-15",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
