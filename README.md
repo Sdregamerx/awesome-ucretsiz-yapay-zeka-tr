@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-15-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-18-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-15 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-15 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-15 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-15 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-15 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-15 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-15 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-15 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-18 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-18 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-18 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-18 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-18 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-18 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-18 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-18 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [fomo-iqa](https://pypi.org/project/fomo-iqa/) | 1.0.1 | FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance — reference-based p | 80 | 2026-09-18 |
+| [gitea-toolkit-mcp](https://pypi.org/project/gitea-toolkit-mcp/) | 0.9.4 | Gitea 的 MCP 工具服务（stdio）：仓库 / Issue / Pull Request / 通知 / Gitea Actions 的读写。与 gitea-toolkit | 80 | 2026-09-18 |
+| [pypepper](https://pypi.org/project/pypepper/) | 0.6.6 | PyPepper is a microservice toolkit written in Python. | 85 | 2026-09-18 |
+| [entropy-data](https://pypi.org/project/entropy-data/) | 0.3.22 | CLI for Entropy Data | 85 | 2026-09-18 |
+| [danvas](https://pypi.org/project/danvas/) | 0.7.0 | A browser-based spatial canvas with UI panels defined and controlled from Python. | 90 | 2026-09-18 |
 | [tokenspeed-smg-grpc-servicer](https://pypi.org/project/tokenspeed-smg-grpc-servicer/) | 0.9.1.post20260915 | SMG gRPC servicer implementations for LLM inference engines (vLLM, MLX, TokenSpeed, SGLang | 90 | 2026-09-15 |
 | [prauga-flexdoc](https://pypi.org/project/prauga-flexdoc/) | 0.7.3 | Self-contained ASGI and WSGI adapters for the Prauga FlexDoc OpenAPI renderer | 90 | 2026-09-15 |
 | [mixpeek](https://pypi.org/project/mixpeek/) | 1.3.688 | Mixpeek: the semantic retrieval layer for unstructured and multimodal data | 90 | 2026-09-15 |
@@ -62,6 +67,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | Free open-source project designed for turning youtube-viedos into viral short vi | 744 | 82.7 | 2026-09-18 |
+| [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Continual learning infra for self-improving agents | 3504 | 194.7 | 2026-09-18 |
+| [jub0t/Concat](https://github.com/jub0t/Concat) | Open-Source CapCut replacement (MCP supported). | 2751 | 119.6 | 2026-09-18 |
+| [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 2026 年编程导航 AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI | 180 | 10.6 | 2026-09-18 |
+| [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) | Computer use for about $0.0002 a step: OCR the screen, classify the next action  | 182 | 182.0 | 2026-09-18 |
 | [rome-os/rome](https://github.com/rome-os/rome) | A compounding agent OS for recursive agents. Also an open source alternative to  | 499 | 21.7 | 2026-09-15 |
 | [panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare) | AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本 | 680 | 27.2 | 2026-09-15 |
 | [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配 | 3113 | 135.3 | 2026-09-15 |
@@ -91,6 +101,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-09-18** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-15** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-11** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
