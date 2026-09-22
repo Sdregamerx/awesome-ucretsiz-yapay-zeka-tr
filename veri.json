@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-18",
+   "son_test": "2026-09-22",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "Pipx40",
+   "aciklama": "Python Pipx40 is a Python wrapper for Pickering PXI VISA-compliant driver",
+   "surum": "1.58",
+   "ozet": "Python Pipx40 is a Python wrapper for Pickering PXI VISA-compliant driver",
+   "surum_sayisi": 5,
+   "depo": "",
+   "lisans": "Copyright (c) 2017-2023 Pickering Interf",
+   "adres": "https://pypi.org/project/Pipx40/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pyusbxpress",
+   "aciklama": "Cross-platform Python client for Silicon Labs USBXpress devices (no vendor driver required)",
+   "surum": "0.1.2",
+   "ozet": "Cross-platform Python client for Silicon Labs USBXpress devices (no vendor driver required)",
+   "surum_sayisi": 3,
+   "depo": "https://github.com/HCCFish/pyusbxpress/blob/main/README.md",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/pyusbxpress/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "paystore",
+   "aciklama": "A unified Python library for integrating multiple payment providers",
+   "surum": "0.2.1",
+   "ozet": "A unified Python library for integrating multiple payment providers",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/onwuagba/paystore-py/tree/main/docs",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/paystore/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "chassis-harness",
+   "aciklama": "Chassis: transactional runtime composition for dynamic agent systems -- scoped ownership, reactive capabilities, and immutable runtime generations.",
+   "surum": "0.8.1",
+   "ozet": "Chassis: transactional runtime composition for dynamic agent systems -- scoped ownership, reactive capabilities, and immutable runtime generations.",
+   "surum_sayisi": 11,
+   "depo": "https://github.com/andreolli-davide/chassis/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/chassis-harness/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "skill-lens",
+   "aciklama": "Run evaluations on Agent Skills (SKILL.md) in CI/CD or manually",
+   "surum": "0.13.0",
+   "ozet": "Run evaluations on Agent Skills (SKILL.md) in CI/CD or manually",
+   "surum_sayisi": 13,
+   "depo": "https://github.com/EmadMokhtar/skill-evaluator/issues",
+   "lisans": "MIT License\n        \n        Copyright (",
+   "adres": "https://pypi.org/project/skill-lens/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
   {
    "kaynak": "pypi",
    "ad": "fomo-iqa",
@@ -467,6 +542,138 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "kraayenjon/awesome-jev",
+   "aciklama": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+   "yildiz": 101,
+   "yildiz_hizi": 33.7,
+   "dil": "",
+   "adres": "https://github.com/kraayenjon/awesome-jev",
+   "konular": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "api",
+    "artificial-intelligence",
+    "automation",
+    "awesome",
+    "awesome-list",
+    "classification",
+    "curated-list",
+    "decision-making",
+    "developer-tools",
+    "jev",
+    "jev-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "system-one",
+    "typesafe",
+    "typesafe-ai"
+   ],
+   "yas_gun": 3,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "github",
+   "ad": "yibie/awesome-jev",
+   "aciklama": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+   "yildiz": 1154,
+   "yildiz_hizi": 288.5,
+   "dil": "Python",
+   "adres": "https://github.com/yibie/awesome-jev",
+   "konular": [
+    "awesome",
+    "awesome-list",
+    "jev",
+    "llm"
+   ],
+   "yas_gun": 4,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Player-YN/BrowserKitten",
+   "aciklama": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+   "yildiz": 2907,
+   "yildiz_hizi": 121.1,
+   "dil": "JavaScript",
+   "adres": "https://github.com/Player-YN/BrowserKitten",
+   "konular": [
+    "ai-agent",
+    "browser-agent",
+    "byok",
+    "chrome-extension",
+    "llm",
+    "pptx",
+    "tldraw",
+    "univer"
+   ],
+   "yas_gun": 24,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "github",
+   "ad": "markfulton/ai-employees",
+   "aciklama": "Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files.",
+   "yildiz": 367,
+   "yildiz_hizi": 19.3,
+   "dil": "JavaScript",
+   "adres": "https://github.com/markfulton/ai-employees",
+   "konular": [
+    "ai-agents",
+    "ai-employee",
+    "ai-employees",
+    "antigravity",
+    "automation",
+    "claude-code",
+    "claude-skill",
+    "codex",
+    "hermes-agent",
+    "openclaw",
+    "opencode",
+    "scheduled-tasks",
+    "small-business"
+   ],
+   "yas_gun": 19,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
+  {
+   "kaynak": "github",
+   "ad": "AppitStudio/awesome-jev",
+   "aciklama": "Curated Jev resources and runnable examples for typed AI decisions.",
+   "yildiz": 74,
+   "yildiz_hizi": 24.7,
+   "dil": "Python",
+   "adres": "https://github.com/AppitStudio/awesome-jev",
+   "konular": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "decision-making",
+    "jev",
+    "system-one",
+    "typesafe-ai"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-22"
+  },
   {
    "kaynak": "github",
    "ad": "Colafornia/short-video-generator-AI",
@@ -1132,6 +1339,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-09-22",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-18",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
