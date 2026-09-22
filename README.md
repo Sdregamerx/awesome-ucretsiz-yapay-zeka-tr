@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-18-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-22-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-18 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-18 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-18 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-18 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-18 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-18 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-18 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-18 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-22 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-22 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-22 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-22 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-22 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-22 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-22 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-22 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [Pipx40](https://pypi.org/project/Pipx40/) | 1.58 | Python Pipx40 is a Python wrapper for Pickering PXI VISA-compliant driver | 80 | 2026-09-22 |
+| [pyusbxpress](https://pypi.org/project/pyusbxpress/) | 0.1.2 | Cross-platform Python client for Silicon Labs USBXpress devices (no vendor driver required | 80 | 2026-09-22 |
+| [paystore](https://pypi.org/project/paystore/) | 0.2.1 | A unified Python library for integrating multiple payment providers | 80 | 2026-09-22 |
+| [chassis-harness](https://pypi.org/project/chassis-harness/) | 0.8.1 | Chassis: transactional runtime composition for dynamic agent systems -- scoped ownership,  | 90 | 2026-09-22 |
+| [skill-lens](https://pypi.org/project/skill-lens/) | 0.13.0 | Run evaluations on Agent Skills (SKILL.md) in CI/CD or manually | 95 | 2026-09-22 |
 | [fomo-iqa](https://pypi.org/project/fomo-iqa/) | 1.0.1 | FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance — reference-based p | 80 | 2026-09-18 |
 | [gitea-toolkit-mcp](https://pypi.org/project/gitea-toolkit-mcp/) | 0.9.4 | Gitea 的 MCP 工具服务（stdio）：仓库 / Issue / Pull Request / 通知 / Gitea Actions 的读写。与 gitea-toolkit | 80 | 2026-09-18 |
 | [pypepper](https://pypi.org/project/pypepper/) | 0.6.6 | PyPepper is a microservice toolkit written in Python. | 85 | 2026-09-18 |
@@ -67,6 +72,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [kraayenjon/awesome-jev](https://github.com/kraayenjon/awesome-jev) | A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe  | 101 | 33.7 | 2026-09-22 |
+| [yibie/awesome-jev](https://github.com/yibie/awesome-jev) | A curated list of public projects, integrations, and discussions built on Jev —  | 1154 | 288.5 | 2026-09-22 |
+| [Player-YN/BrowserKitten](https://github.com/Player-YN/BrowserKitten) | Paw Work - selection-first web agent for Chrome: select on the live page, descri | 2907 | 121.1 | 2026-09-22 |
+| [markfulton/ai-employees](https://github.com/markfulton/ai-employees) | Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Cod | 367 | 19.3 | 2026-09-22 |
+| [AppitStudio/awesome-jev](https://github.com/AppitStudio/awesome-jev) | Curated Jev resources and runnable examples for typed AI decisions. | 74 | 24.7 | 2026-09-22 |
 | [Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | Free open-source project designed for turning youtube-viedos into viral short vi | 744 | 82.7 | 2026-09-18 |
 | [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Continual learning infra for self-improving agents | 3504 | 194.7 | 2026-09-18 |
 | [jub0t/Concat](https://github.com/jub0t/Concat) | Open-Source CapCut replacement (MCP supported). | 2751 | 119.6 | 2026-09-18 |
@@ -101,6 +111,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-09-22** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-18** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-15** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-11** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
