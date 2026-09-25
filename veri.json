@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-22",
+   "son_test": "2026-09-25",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "spaex",
+   "aciklama": "spaex 4.0: reproducible coding harnesses for any repo. Compose skills, MCPs, constitutions, slash commands, and dev-environment files into a single project; add/remove/install/migrate/constitution show CLI.",
+   "surum": "5.2.2",
+   "ozet": "spaex 4.0: reproducible coding harnesses for any repo. Compose skills, MCPs, constitutions, slash commands, and dev-environment files into a single project; add/remove/install/migrate/constitution show CLI.",
+   "surum_sayisi": 8,
+   "depo": "",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/spaex/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "srift",
+   "aciklama": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI and MCP server for AI agents (Claude, Cursor, Windsurf, Continue, Zed) — runs the official Node.js CLI via a bundled Node.js runtime, no separate Node.js install required.",
+   "surum": "4.0.0.post1",
+   "ozet": "Zero-config, end-to-end encrypted peer-to-peer file transfer CLI and MCP server for AI agents (Claude, Cursor, Windsurf, Continue, Zed) — runs the official Node.js CLI via a bundled Node.js runtime, no separate Node.js install required.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/srivardhan113/SRIFT-Open_Source/issues",
+   "lisans": "MIT License\n        \n        Copyright (",
+   "adres": "https://pypi.org/project/srift/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "maplibre-tiles",
+   "aciklama": "Python bindings for MapLibre Tile (MLT) format",
+   "surum": "0.2.0",
+   "ozet": "Python bindings for MapLibre Tile (MLT) format",
+   "surum_sayisi": 32,
+   "depo": "https://github.com/maplibre/maplibre-tile-spec/blob/master/rust/mlt-py/CHANGELOG.md",
+   "lisans": "MIT OR Apache-2.0",
+   "adres": "https://pypi.org/project/maplibre-tiles/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "heylead",
+   "aciklama": "MCP-native autonomous LinkedIn SDR. Your AI sales rep, one command to fill your pipeline.",
+   "surum": "0.10.399",
+   "ozet": "MCP-native autonomous LinkedIn SDR. Your AI sales rep, one command to fill your pipeline.",
+   "surum_sayisi": 463,
+   "depo": "https://github.com/D4umak/linkedin-outreach-mcp/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/heylead/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "bonicos",
+   "aciklama": "One Python SDK for every BonicBot — transport-agnostic, replaces bonicbot (BLE) and bonicbot-bridge (ROS)",
+   "surum": "0.11.0",
+   "ozet": "One Python SDK for every BonicBot — transport-agnostic, replaces bonicbot (BLE) and bonicbot-bridge (ROS)",
+   "surum_sayisi": 8,
+   "depo": "https://github.com/Autobonics/bonicOS-SDK/issues",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/bonicos/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
   {
    "kaynak": "pypi",
    "ad": "Pipx40",
@@ -542,6 +617,128 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "TypeLLM/TypeLLM",
+   "aciklama": "TypeLLM: LLMs with type-safe generation",
+   "yildiz": 244,
+   "yildiz_hizi": 34.9,
+   "dil": "Python",
+   "adres": "https://github.com/TypeLLM/TypeLLM",
+   "konular": [
+    "ai",
+    "jev",
+    "llms",
+    "types"
+   ],
+   "yas_gun": 7,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "github",
+   "ad": "yetone/magpie",
+   "aciklama": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+   "yildiz": 741,
+   "yildiz_hizi": 741.0,
+   "dil": "Go",
+   "adres": "https://github.com/yetone/magpie",
+   "konular": [
+    "claude-code",
+    "codex",
+    "deepseek",
+    "gemini-cli",
+    "llm",
+    "macos"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "github",
+   "ad": "TokenRhythm/NeoHorse",
+   "aciklama": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+   "yildiz": 981,
+   "yildiz_hizi": 46.7,
+   "dil": "Python",
+   "adres": "https://github.com/TokenRhythm/NeoHorse",
+   "konular": [
+    "agent",
+    "large-language-models",
+    "llm",
+    "post-training",
+    "recursive-self-improvement",
+    "rsi"
+   ],
+   "yas_gun": 21,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "github",
+   "ad": "kishormorol/cli-faq-shortcuts",
+   "aciklama": "An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor.",
+   "yildiz": 104,
+   "yildiz_hizi": 17.3,
+   "dil": "Python",
+   "adres": "https://github.com/kishormorol/cli-faq-shortcuts",
+   "konular": [
+    "agent-skills",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "cli",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "llm",
+    "openai-codex",
+    "productivity",
+    "prompts",
+    "skill",
+    "slash-commands"
+   ],
+   "yas_gun": 6,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
+  {
+   "kaynak": "github",
+   "ad": "yukitorido/short-video-generator-AI",
+   "aciklama": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+   "yildiz": 348,
+   "yildiz_hizi": 348.0,
+   "dil": "Python",
+   "adres": "https://github.com/yukitorido/short-video-generator-AI",
+   "konular": [
+    "ai",
+    "llm",
+    "llm-tools",
+    "opus-clip",
+    "opus-clip-alternative",
+    "short-video",
+    "short-video-automation",
+    "short-video-generator",
+    "short-video-maker"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-25"
+  },
   {
    "kaynak": "github",
    "ad": "kraayenjon/awesome-jev",
@@ -1339,6 +1536,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-09-25",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-22",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
