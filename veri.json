@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-25",
+   "son_test": "2026-09-29",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "ros2-inspector-mcp",
+   "aciklama": "Read-only MCP server that lets LLMs inspect and analyze ROS 2 systems (nodes, topics, params, actions) via natural language",
+   "surum": "0.1.1",
+   "ozet": "Read-only MCP server that lets LLMs inspect and analyze ROS 2 systems (nodes, topics, params, actions) via natural language",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/XuChen-AI/ros2-inspector/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/ros2-inspector-mcp/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "shopping-cli",
+   "aciklama": "Standalone local-commerce AI consultation marketplace runtime",
+   "surum": "3.2.6",
+   "ozet": "Standalone local-commerce AI consultation marketplace runtime",
+   "surum_sayisi": 10,
+   "depo": "",
+   "lisans": "Apache License Version 2.0, January 2004",
+   "adres": "https://pypi.org/project/shopping-cli/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "searchmux",
+   "aciklama": "The search layer for AI agents over SerpApi",
+   "surum": "0.1.4",
+   "ozet": "The search layer for AI agents over SerpApi",
+   "surum_sayisi": 5,
+   "depo": "https://github.com/ai-engineerr/searchmux/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/searchmux/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "guillotina",
+   "aciklama": "asyncio REST API Resource database",
+   "surum": "7.1.5",
+   "ozet": "asyncio REST API Resource database",
+   "surum_sayisi": 612,
+   "depo": "https://github.com/plone/guillotina",
+   "lisans": "BSD",
+   "adres": "https://pypi.org/project/guillotina/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "argus-obs-semconv",
+   "aciklama": "Convenciones semanticas de Argus. Para LIBRERIAS: depende solo de la API de OpenTelemetry.",
+   "surum": "1.0.0a12",
+   "ozet": "Convenciones semanticas de Argus. Para LIBRERIAS: depende solo de la API de OpenTelemetry.",
+   "surum_sayisi": 10,
+   "depo": "https://github.com/Root1V/argus-observability-platform",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/argus-obs-semconv/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
   {
    "kaynak": "pypi",
    "ad": "spaex",
@@ -617,6 +692,151 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "ufo-ai/ufo-core",
+   "aciklama": "Business agent operating system",
+   "yildiz": 83,
+   "yildiz_hizi": 41.5,
+   "dil": "Python",
+   "adres": "https://github.com/ufo-ai/ufo-core",
+   "konular": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "hermes",
+    "hermes-agent",
+    "llm",
+    "openai",
+    "openclaw"
+   ],
+   "yas_gun": 2,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "github",
+   "ad": "qiz029/dscode",
+   "aciklama": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
+   "yildiz": 861,
+   "yildiz_hizi": 47.8,
+   "dil": "JavaScript",
+   "adres": "https://github.com/qiz029/dscode",
+   "konular": [
+    "agentic",
+    "ai-agent",
+    "cli",
+    "code-review",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "jev",
+    "llm",
+    "macos",
+    "mcp",
+    "nodejs",
+    "terminal",
+    "tui"
+   ],
+   "yas_gun": 18,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "github",
+   "ad": "nokia-applied-research/AnyJev",
+   "aciklama": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+   "yildiz": 919,
+   "yildiz_hizi": 114.9,
+   "dil": "Python",
+   "adres": "https://github.com/nokia-applied-research/AnyJev",
+   "konular": [
+    "calibration",
+    "decision-model",
+    "jev",
+    "jev-model",
+    "llm",
+    "system-one",
+    "transformers",
+    "vllm"
+   ],
+   "yas_gun": 8,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "github",
+   "ad": "jamespolyakov9829/captcha-api",
+   "aciklama": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+   "yildiz": 264,
+   "yildiz_hizi": 88.0,
+   "dil": "Python",
+   "adres": "https://github.com/jamespolyakov9829/captcha-api",
+   "konular": [
+    "api",
+    "automation",
+    "captcha",
+    "captcha-api",
+    "challenge",
+    "cloudflare",
+    "python",
+    "turnstile"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
+  {
+   "kaynak": "github",
+   "ad": "matank001/clodfarm",
+   "aciklama": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+   "yildiz": 80,
+   "yildiz_hizi": 20.0,
+   "dil": "Python",
+   "adres": "https://github.com/matank001/clodfarm",
+   "konular": [
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "autonomous-agents",
+    "aws",
+    "claude",
+    "claude-code",
+    "coding-agent",
+    "devtools",
+    "docker",
+    "dynamodb",
+    "llm",
+    "multi-agent",
+    "python",
+    "rate-limiting",
+    "remote-control",
+    "self-hosted",
+    "subagents"
+   ],
+   "yas_gun": 4,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-09-29"
+  },
   {
    "kaynak": "github",
    "ad": "TypeLLM/TypeLLM",
@@ -1536,6 +1756,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-09-29",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-25",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
