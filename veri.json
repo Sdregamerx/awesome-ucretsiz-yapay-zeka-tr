@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-09-29",
+   "son_test": "2026-10-02",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "aspose-total-net",
+   "aciklama": "Aspose.Total for Python via .NET is a document/visio/pdf/presentation/imaging/3D & CAD meta-package that pins the official Aspose Python via .NET libraries.",
+   "surum": "26.8.0",
+   "ozet": "Aspose.Total for Python via .NET is a document/visio/pdf/presentation/imaging/3D & CAD meta-package that pins the official Aspose Python via .NET libraries.",
+   "surum_sayisi": 35,
+   "depo": "",
+   "lisans": "",
+   "adres": "https://pypi.org/project/aspose-total-net/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "aiorentman",
+   "aciklama": "Unofficial asynchronous Python library to interact with the Rentman API",
+   "surum": "0.2.1",
+   "ozet": "Unofficial asynchronous Python library to interact with the Rentman API",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/DaanVervacke/aiorentman/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/aiorentman/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "aiofarmad",
+   "aciklama": "Unofficial asynchronous Python library to interact with the Mijn Farmad Apotheek API",
+   "surum": "0.2.0",
+   "ozet": "Unofficial asynchronous Python library to interact with the Mijn Farmad Apotheek API",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/DaanVervacke/aiofarmad/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/aiofarmad/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "embodify-mcp",
+   "aciklama": "Embodify MCP server: robot observation and control tools for the agent you already use",
+   "surum": "0.1.0a2",
+   "ozet": "Embodify MCP server: robot observation and control tools for the agent you already use",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/YidaYang/embodify/blob/main/CHANGELOG.md",
+   "lisans": "Apache License\n                         ",
+   "adres": "https://pypi.org/project/embodify-mcp/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "bambooai",
+   "aciklama": "An LLM-driven data analyst that works in a persistent Python kernel, one cell at a time, and reproduces its own results before it reports them.",
+   "surum": "2.0.1",
+   "ozet": "An LLM-driven data analyst that works in a persistent Python kernel, one cell at a time, and reproduces its own results before it reports them.",
+   "surum_sayisi": 101,
+   "depo": "https://github.com/pgalko/BambooAI",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/bambooai/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
   {
    "kaynak": "pypi",
    "ad": "ros2-inspector-mcp",
@@ -692,6 +767,130 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "undefined-ui/second-brain-os",
+   "aciklama": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+   "yildiz": 862,
+   "yildiz_hizi": 35.9,
+   "dil": "HTML",
+   "adres": "https://github.com/undefined-ui/second-brain-os",
+   "konular": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "knowledge-graph",
+    "knowledge-management",
+    "llm",
+    "mcp",
+    "obsidian",
+    "personal-knowledge-base",
+    "pkm",
+    "second-brain"
+   ],
+   "yas_gun": 24,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "github",
+   "ad": "youngyangyang04/llm-master",
+   "aciklama": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+   "yildiz": 1058,
+   "yildiz_hizi": 52.9,
+   "dil": "",
+   "adres": "https://github.com/youngyangyang04/llm-master",
+   "konular": [
+    "agent",
+    "large-language-models",
+    "llm",
+    "llm-learning",
+    "llm-tutorial",
+    "rag"
+   ],
+   "yas_gun": 20,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "github",
+   "ad": "ant-research/AntOmniEvo",
+   "aciklama": "An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers.",
+   "yildiz": 899,
+   "yildiz_hizi": 52.9,
+   "dil": "Python",
+   "adres": "https://github.com/ant-research/AntOmniEvo",
+   "konular": [
+    "agentic",
+    "automation",
+    "evolutionary-algorithms",
+    "llm-agent",
+    "multi-agent",
+    "rsi-ai",
+    "self-improvement"
+   ],
+   "yas_gun": 17,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "github",
+   "ad": "nanaism/yomiyasu",
+   "aciklama": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+   "yildiz": 1102,
+   "yildiz_hizi": 1102.0,
+   "dil": "Python",
+   "adres": "https://github.com/nanaism/yomiyasu",
+   "konular": [
+    "agent-skills",
+    "ai-writing",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini",
+    "japanese",
+    "linter",
+    "llm",
+    "nlp",
+    "writing",
+    "writing-assistant",
+    "writing-tool"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
+  {
+   "kaynak": "github",
+   "ad": "suvamneog/jobradar",
+   "aciklama": "Watches company job boards, scores openings against your resume, and emails you when something worth applying to shows up.",
+   "yildiz": 147,
+   "yildiz_hizi": 21.0,
+   "dil": "Python",
+   "adres": "https://github.com/suvamneog/jobradar",
+   "konular": [
+    "automation",
+    "job-search",
+    "llm",
+    "python"
+   ],
+   "yas_gun": 7,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-02"
+  },
   {
    "kaynak": "github",
    "ad": "ufo-ai/ufo-core",
@@ -1756,6 +1955,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-02",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-09-29",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
