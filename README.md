@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-09-29-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-02-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-09-29 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-09-29 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-09-29 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-09-29 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-09-29 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-09-29 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-09-29 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-09-29 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-02 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-02 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-02 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-02 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-02 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-02 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-02 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-02 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [aspose-total-net](https://pypi.org/project/aspose-total-net/) | 26.8.0 | Aspose.Total for Python via .NET is a document/visio/pdf/presentation/imaging/3D & CAD met | 75 | 2026-10-02 |
+| [aiorentman](https://pypi.org/project/aiorentman/) | 0.2.1 | Unofficial asynchronous Python library to interact with the Rentman API | 75 | 2026-10-02 |
+| [aiofarmad](https://pypi.org/project/aiofarmad/) | 0.2.0 | Unofficial asynchronous Python library to interact with the Mijn Farmad Apotheek API | 75 | 2026-10-02 |
+| [embodify-mcp](https://pypi.org/project/embodify-mcp/) | 0.1.0a2 | Embodify MCP server: robot observation and control tools for the agent you already use | 80 | 2026-10-02 |
+| [bambooai](https://pypi.org/project/bambooai/) | 2.0.1 | An LLM-driven data analyst that works in a persistent Python kernel, one cell at a time, a | 95 | 2026-10-02 |
 | [ros2-inspector-mcp](https://pypi.org/project/ros2-inspector-mcp/) | 0.1.1 | Read-only MCP server that lets LLMs inspect and analyze ROS 2 systems (nodes, topics, para | 75 | 2026-09-29 |
 | [shopping-cli](https://pypi.org/project/shopping-cli/) | 3.2.6 | Standalone local-commerce AI consultation marketplace runtime | 80 | 2026-09-29 |
 | [searchmux](https://pypi.org/project/searchmux/) | 0.1.4 | The search layer for AI agents over SerpApi | 85 | 2026-09-29 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [netops-api-navigator](https://pypi.org/project/netops-api-navigator/) | 0.3.0 | Independent MCP server for graph-backed network API discovery and automation | 65 | 2026-09-09 |
 | [gooddata-dbt](https://pypi.org/project/gooddata-dbt/) | 1.74.0 | dbt plugin for GoodData | 70 | 2026-09-09 |
 | [csp-tarayici](https://pypi.org/project/csp-tarayici/) | 0.4.0 | Cash-secured put scanner using CBOE options data with a curses TUI, no API keys required | 90 | 2026-09-09 |
-| [catan-toolbox](https://pypi.org/project/catan-toolbox/) | 0.1.6 | Interactive and algorithmic tools for matching and curating neurons across calcium imaging | 70 | 2026-09-09 |
-| [lightlogger](https://pypi.org/project/lightlogger/) | 0.1.1 | Live web dashboard for your Python logs — one line of code, zero dependencies | 75 | 2026-09-09 |
-| [taprivo](https://pypi.org/project/taprivo/) | 0.1.0b5 | Turn finger taps into a playful Motion Energy budget for AI coding agents. | 75 | 2026-09-09 |
-| [agent-augury](https://pypi.org/project/agent-augury/) | 0.4.0 | Model-agnostic passive awareness multi-agent runtime — concept inherited from AgentRadio ( | 80 | 2026-09-09 |
-| [instana-client](https://pypi.org/project/instana-client/) | 1.1.2 | Instana REST API documentation | 85 | 2026-09-09 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) | An AI second brain that maintains itself. Full guide, starter vault, agent skill | 862 | 35.9 | 2026-10-02 |
+| [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) | 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、 | 1058 | 52.9 | 2026-10-02 |
+| [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | An auto-evolution framework that optimizes anything — your 7×24 team of algorith | 899 | 52.9 | 2026-10-02 |
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese | 1102 | 1102.0 | 2026-10-02 |
+| [suvamneog/jobradar](https://github.com/suvamneog/jobradar) | Watches company job boards, scores openings against your resume, and emails you  | 147 | 21.0 | 2026-10-02 |
 | [ufo-ai/ufo-core](https://github.com/ufo-ai/ufo-core) | Business agent operating system | 83 | 41.5 | 2026-09-29 |
 | [qiz029/dscode](https://github.com/qiz029/dscode) | A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approva | 861 | 47.8 | 2026-09-29 |
 | [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) | Turn any LLM into a Jev-style decision model: typed decisions, real probabilitie | 919 | 114.9 | 2026-09-29 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills) | 1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다 | 362 | 21.3 | 2026-09-09 |
 | [browser-use/macos-harness](https://github.com/browser-use/macos-harness) | The simplest, thinnest harness that gives an LLM complete freedom to control a M | 838 | 36.4 | 2026-09-09 |
 | [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, | 1639 | 96.4 | 2026-09-09 |
-| [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 555 | 24.1 | 2026-09-09 |
-| [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | Open-source multi-provider AI gateway for Claude Code and other coding agents, w | 632 | 52.7 | 2026-09-09 |
-| [2akouwu/reverify](https://github.com/2akouwu/reverify) | Stop your AI from making things up — it proposes, deterministic tools decide, ev | 1058 | 117.6 | 2026-09-09 |
-| [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem) | Infrastructure for the next generation of voice agents, designed to provide univ | 1098 | 47.7 | 2026-09-09 |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | A privacy-first app that strips AI watermarks from content you own. | 21478 | 767.1 | 2026-09-09 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-02** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-29** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-25** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-22** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
