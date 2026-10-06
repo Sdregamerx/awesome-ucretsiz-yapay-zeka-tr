@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-02-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-06-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-02 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-02 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-02 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-02 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-02 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-02 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-02 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-02 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-06 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-06 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-06 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-06 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-06 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-06 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-06 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-06 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [cadpilot](https://pypi.org/project/cadpilot/) | 0.7.6 | CADPilot-MCP: Automatic CAD — MCP server that lets AI clients drive FreeCAD to create, edi | 90 | 2026-10-06 |
+| [pten](https://pypi.org/project/pten/) | 0.4.16 | A tool to use WeWork(企业微信) and feishu(飞书) API quickly and easily | 90 | 2026-10-06 |
+| [pyrig](https://pypi.org/project/pyrig/) | 18.98.0 | A Python project setup and management tool built on infrastructure as code and convention  | 90 | 2026-10-06 |
+| [matrixai-core](https://pypi.org/project/matrixai-core/) | 1.14.0 | Auditable AI model language, runtime and deployment framework | 95 | 2026-10-06 |
+| [odoo-addon-base-rest](https://pypi.org/project/odoo-addon-base-rest/) | 18.0.1.2.0 | Develop your own high level REST APIs for Odoo thanks to this addon. | 95 | 2026-10-06 |
 | [aspose-total-net](https://pypi.org/project/aspose-total-net/) | 26.8.0 | Aspose.Total for Python via .NET is a document/visio/pdf/presentation/imaging/3D & CAD met | 75 | 2026-10-02 |
 | [aiorentman](https://pypi.org/project/aiorentman/) | 0.2.1 | Unofficial asynchronous Python library to interact with the Rentman API | 75 | 2026-10-02 |
 | [aiofarmad](https://pypi.org/project/aiofarmad/) | 0.2.0 | Unofficial asynchronous Python library to interact with the Mijn Farmad Apotheek API | 75 | 2026-10-02 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [pykokoro](https://pypi.org/project/pykokoro/) | 0.9.4 | A python library for Kokoro TTS | 90 | 2026-09-11 |
 | [protolib](https://pypi.org/project/protolib/) | 0.4.4 | Pure-Python, from-scratch declarative binary protocol (de)serializer — node-protodef style | 95 | 2026-09-11 |
 | [prompt-flamegraph](https://pypi.org/project/prompt-flamegraph/) | 0.3.0 | Lightweight, dependency-free prompt context flamegraph generator for LLMs | 95 | 2026-09-11 |
-| [hasdata-yelp-mcp](https://pypi.org/project/hasdata-yelp-mcp/) | 1.0.0 | MCP server for Yelp through HasData's hosted API. 1,000 free credits every month. | 65 | 2026-09-09 |
-| [VeraGridMcp](https://pypi.org/project/VeraGridMcp/) | 6.5.24 | VeraGrid is a Power Systems simulation program intended for professional use and research | 65 | 2026-09-09 |
-| [netops-api-navigator](https://pypi.org/project/netops-api-navigator/) | 0.3.0 | Independent MCP server for graph-backed network API discovery and automation | 65 | 2026-09-09 |
-| [gooddata-dbt](https://pypi.org/project/gooddata-dbt/) | 1.74.0 | dbt plugin for GoodData | 70 | 2026-09-09 |
-| [csp-tarayici](https://pypi.org/project/csp-tarayici/) | 0.4.0 | Cash-secured put scanner using CBOE options data with a curses TUI, no API keys required | 90 | 2026-09-09 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Ch | 814 | 162.8 | 2026-10-06 |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Answer me with HTML — an agent skill that answers hard questions with a one-page | 1583 | 395.8 | 2026-10-06 |
+| [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全 | 1885 | 171.4 | 2026-10-06 |
+| [yakuikai/tokentab](https://github.com/yakuikai/tokentab) | Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI s | 176 | 12.6 | 2026-10-06 |
+| [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any un | 341 | 24.4 | 2026-10-06 |
 | [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) | An AI second brain that maintains itself. Full guide, starter vault, agent skill | 862 | 35.9 | 2026-10-02 |
 | [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) | 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、 | 1058 | 52.9 | 2026-10-02 |
 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | An auto-evolution framework that optimizes anything — your 7×24 team of algorith | 899 | 52.9 | 2026-10-02 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [Player-YN/PawWork_ZhuaZhua](https://github.com/Player-YN/PawWork_ZhuaZhua) | Paw Work - selection-first web agent for Chrome: select on the live page, descri | 2546 | 195.8 | 2026-09-11 |
 | [jzjzzzzzzz/agent-me](https://github.com/jzjzzzzzzz/agent-me) | Distill your knowledge, memories, and decisions into an open-source, inspectable | 184 | 12.3 | 2026-09-11 |
 | [crwdla/tokentab](https://github.com/crwdla/tokentab) | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out h | 318 | 106.0 | 2026-09-11 |
-| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL | 2486 | 207.2 | 2026-09-09 |
-| [useagenthq/useagent](https://github.com/useagenthq/useagent) | The open-source AI coworker for your team: agents with their own cloud computer, | 284 | 28.4 | 2026-09-09 |
-| [bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills) | 1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다 | 362 | 21.3 | 2026-09-09 |
-| [browser-use/macos-harness](https://github.com/browser-use/macos-harness) | The simplest, thinnest harness that gives an LLM complete freedom to control a M | 838 | 36.4 | 2026-09-09 |
-| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, | 1639 | 96.4 | 2026-09-09 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-06** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-02** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-29** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-25** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
