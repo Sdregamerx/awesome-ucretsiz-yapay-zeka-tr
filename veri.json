@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-02",
+   "son_test": "2026-10-06",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "cadpilot",
+   "aciklama": "CADPilot-MCP: Automatic CAD — MCP server that lets AI clients drive FreeCAD to create, edit, and inspect 3D CAD models via XML-RPC",
+   "surum": "0.7.6",
+   "ozet": "CADPilot-MCP: Automatic CAD — MCP server that lets AI clients drive FreeCAD to create, edit, and inspect 3D CAD models via XML-RPC",
+   "surum_sayisi": 23,
+   "depo": "https://github.com/LBurny/cadpilot/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/cadpilot/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pten",
+   "aciklama": "A tool to use WeWork(企业微信) and feishu(飞书) API quickly and easily",
+   "surum": "0.4.16",
+   "ozet": "A tool to use WeWork(企业微信) and feishu(飞书) API quickly and easily",
+   "surum_sayisi": 20,
+   "depo": "https://github.com/bendell02/pten",
+   "lisans": "",
+   "adres": "https://pypi.org/project/pten/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pyrig",
+   "aciklama": "A Python project setup and management tool built on infrastructure as code and convention over configuration.",
+   "surum": "18.98.0",
+   "ozet": "A Python project setup and management tool built on infrastructure as code and convention over configuration.",
+   "surum_sayisi": 925,
+   "depo": "https://github.com/Winipedia/pyrig/releases",
+   "lisans": "",
+   "adres": "https://pypi.org/project/pyrig/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "matrixai-core",
+   "aciklama": "Auditable AI model language, runtime and deployment framework",
+   "surum": "1.14.0",
+   "ozet": "Auditable AI model language, runtime and deployment framework",
+   "surum_sayisi": 24,
+   "depo": "https://github.com/robertollweb/matrixAI/issues",
+   "lisans": "GNU AFFERO GENERAL PUBLIC LICENSE\n      ",
+   "adres": "https://pypi.org/project/matrixai-core/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "odoo-addon-base-rest",
+   "aciklama": "Develop your own high level REST APIs for Odoo thanks to this addon.",
+   "surum": "18.0.1.2.0",
+   "ozet": "Develop your own high level REST APIs for Odoo thanks to this addon.",
+   "surum_sayisi": 34,
+   "depo": "https://github.com/OCA/rest-framework",
+   "lisans": "LGPL-3",
+   "adres": "https://pypi.org/project/odoo-addon-base-rest/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
   {
    "kaynak": "pypi",
    "ad": "aspose-total-net",
@@ -767,6 +842,132 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "Edwardxlai/easyread",
+   "aciklama": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+   "yildiz": 814,
+   "yildiz_hizi": 162.8,
+   "dil": "Python",
+   "adres": "https://github.com/Edwardxlai/easyread",
+   "konular": [
+    "academic",
+    "arxiv",
+    "chinese",
+    "claude-code",
+    "codex",
+    "electron",
+    "llm",
+    "paper-reading",
+    "pdf-translator",
+    "reference-manager",
+    "research-tool",
+    "translation"
+   ],
+   "yas_gun": 5,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "QingYunA/answer-me-with-html",
+   "aciklama": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+   "yildiz": 1583,
+   "yildiz_hizi": 395.8,
+   "dil": "JavaScript",
+   "adres": "https://github.com/QingYunA/answer-me-with-html",
+   "konular": [
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "claude-code-skill",
+    "claude-skill",
+    "claude-skills",
+    "cli",
+    "diagram",
+    "explainer",
+    "html",
+    "llm",
+    "ste100"
+   ],
+   "yas_gun": 4,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Ebony-Vinyl/dsh-our-free-model",
+   "aciklama": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "yildiz": 1885,
+   "yildiz_hizi": 171.4,
+   "dil": "JavaScript",
+   "adres": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "konular": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "free-model",
+    "llm",
+    "model-provider",
+    "openai-compatible"
+   ],
+   "yas_gun": 11,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "yakuikai/tokentab",
+   "aciklama": "Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI session logs and shows token usage and cost by model, project, day and activity. No account, no API key, nothing leaves your machine",
+   "yildiz": 176,
+   "yildiz_hizi": 12.6,
+   "dil": "Python",
+   "adres": "https://github.com/yakuikai/tokentab",
+   "konular": [
+    "ai",
+    "ai-token",
+    "ai-token-optimizer",
+    "claude-code",
+    "codex",
+    "python",
+    "token-usage"
+   ],
+   "yas_gun": 14,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "malevrigns/agent-jev",
+   "aciklama": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+   "yildiz": 341,
+   "yildiz_hizi": 24.4,
+   "dil": "Python",
+   "adres": "https://github.com/malevrigns/agent-jev",
+   "konular": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "jev",
+    "jev-model"
+   ],
+   "yas_gun": 14,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-06"
+  },
   {
    "kaynak": "github",
    "ad": "undefined-ui/second-brain-os",
@@ -1955,6 +2156,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-06",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-02",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
