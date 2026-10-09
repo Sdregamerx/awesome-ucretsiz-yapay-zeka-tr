@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-06",
+   "son_test": "2026-10-09",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "teddy-cli",
+   "aciklama": "A local-first, file-based AI coding workflow that applies the UNIX philosophy to AI collaboration.",
+   "surum": "0.1.16",
+   "ozet": "A local-first, file-based AI coding workflow that applies the UNIX philosophy to AI collaboration.",
+   "surum_sayisi": 82,
+   "depo": "",
+   "lisans": "AGPL-3.0-only",
+   "adres": "https://pypi.org/project/teddy-cli/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "bouwmeester-lockbox-api",
+   "aciklama": "Python client for the Bouwmeester Lab Lockbox REST API",
+   "surum": "0.1.4",
+   "ozet": "Python client for the Bouwmeester Lab Lockbox REST API",
+   "surum_sayisi": 5,
+   "depo": "https://github.com/Bouwmeester-Lab/Lockbox-PythonApi",
+   "lisans": "",
+   "adres": "https://pypi.org/project/bouwmeester-lockbox-api/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "APIPod",
+   "aciklama": "Create web-APIs for long-running tasks",
+   "surum": "1.0.29",
+   "ozet": "Create web-APIs for long-running tasks",
+   "surum_sayisi": 26,
+   "depo": "https://github.com/SocAIty/apipod",
+   "lisans": "GNU GENERAL PUBLIC LICENSE\n             ",
+   "adres": "https://pypi.org/project/APIPod/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "fastsdk",
+   "aciklama": "Turn any AI/web service (OpenAPI, Replicate, RunPod, APIPod) into a native-feeling Python client.",
+   "surum": "0.4.21",
+   "ozet": "Turn any AI/web service (OpenAPI, Replicate, RunPod, APIPod) into a native-feeling Python client.",
+   "surum_sayisi": 63,
+   "depo": "https://github.com/SocAIty/fastsdk",
+   "lisans": "GNU GENERAL PUBLIC LICENSE\n             ",
+   "adres": "https://pypi.org/project/fastsdk/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "apipod-registry",
+   "aciklama": "Parse, hold and persist AIServices: the registry for APIPod clients.",
+   "surum": "0.1.9",
+   "ozet": "Parse, hold and persist AIServices: the registry for APIPod clients.",
+   "surum_sayisi": 17,
+   "depo": "https://github.com/SocAIty/APIPodRegistry",
+   "lisans": "GNU GENERAL PUBLIC LICENSE\n             ",
+   "adres": "https://pypi.org/project/apipod-registry/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
   {
    "kaynak": "pypi",
    "ad": "cadpilot",
@@ -842,6 +917,139 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "z91772524-ai/pojia-next",
+   "aciklama": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。另附【免装 Python 的单文件 exe】；DSH 自动区分官方桌面版 / 社区桌面版。附 bandit/semgrep 扫描与 SHA256 校验。",
+   "yildiz": 198,
+   "yildiz_hizi": 9.4,
+   "dil": "Python",
+   "adres": "https://github.com/z91772524-ai/pojia-next",
+   "konular": [
+    "ai-agent",
+    "automation",
+    "claude-code",
+    "codex",
+    "cursor",
+    "deepseek-harness",
+    "dsh",
+    "exe",
+    "glm",
+    "no-dependencies",
+    "one-click",
+    "persona",
+    "prompt-injection",
+    "python",
+    "security-audit",
+    "self-check",
+    "standalone",
+    "unlock",
+    "windows",
+    "workbuddy"
+   ],
+   "yas_gun": 21,
+   "puan": 93,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Sidiora-Labs/centra-gideon-agent",
+   "aciklama": "The companion AI agent that learns, adapts and gets the work done no matter the task",
+   "yildiz": 217,
+   "yildiz_hizi": 9.9,
+   "dil": "Python",
+   "adres": "https://github.com/Sidiora-Labs/centra-gideon-agent",
+   "konular": [
+    "agent",
+    "agent-framework",
+    "agentic-ai",
+    "ai",
+    "large-language-models"
+   ],
+   "yas_gun": 22,
+   "puan": 94,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "github",
+   "ad": "nachisama/ai-data-extractor",
+   "aciklama": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+   "yildiz": 148,
+   "yildiz_hizi": 148.0,
+   "dil": "Python",
+   "adres": "https://github.com/nachisama/ai-data-extractor",
+   "konular": [
+    "ai",
+    "ai-data",
+    "ai-data-analysis",
+    "claude-code",
+    "cursor",
+    "data-extraction",
+    "data-extraction-tool",
+    "data-extractor",
+    "windsurf",
+    "windsurf-ai"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "github",
+   "ad": "LosaLosSantos/aurelio-finance",
+   "aciklama": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+   "yildiz": 707,
+   "yildiz_hizi": 353.5,
+   "dil": "Python",
+   "adres": "https://github.com/LosaLosSantos/aurelio-finance",
+   "konular": [
+    "ai",
+    "dividends",
+    "etf",
+    "finance",
+    "financial-planning",
+    "fintech",
+    "investing",
+    "llm",
+    "net-worth",
+    "personal-finance",
+    "portfolio-tracker",
+    "self-hosted",
+    "stocks",
+    "wealth-management"
+   ],
+   "yas_gun": 2,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
+  {
+   "kaynak": "github",
+   "ad": "yi1108/printfilm",
+   "aciklama": "PRINTFILM: AI short-video marketing and AI short-drama creation platform",
+   "yildiz": 5053,
+   "yildiz_hizi": 174.2,
+   "dil": "Python",
+   "adres": "https://github.com/yi1108/printfilm",
+   "konular": [
+    "ai",
+    "ai-video",
+    "short-drama",
+    "short-video"
+   ],
+   "yas_gun": 29,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-09"
+  },
   {
    "kaynak": "github",
    "ad": "Edwardxlai/easyread",
@@ -2156,6 +2364,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-09",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-06",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
