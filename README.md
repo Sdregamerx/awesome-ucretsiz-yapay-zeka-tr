@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-06-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-09-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-06 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-06 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-06 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-06 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-06 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-06 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-06 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-06 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-09 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-09 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-09 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-09 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-09 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-09 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-09 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-09 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [teddy-cli](https://pypi.org/project/teddy-cli/) | 0.1.16 | A local-first, file-based AI coding workflow that applies the UNIX philosophy to AI collab | 80 | 2026-10-09 |
+| [bouwmeester-lockbox-api](https://pypi.org/project/bouwmeester-lockbox-api/) | 0.1.4 | Python client for the Bouwmeester Lab Lockbox REST API | 85 | 2026-10-09 |
+| [APIPod](https://pypi.org/project/APIPod/) | 1.0.29 | Create web-APIs for long-running tasks | 90 | 2026-10-09 |
+| [fastsdk](https://pypi.org/project/fastsdk/) | 0.4.21 | Turn any AI/web service (OpenAPI, Replicate, RunPod, APIPod) into a native-feeling Python  | 95 | 2026-10-09 |
+| [apipod-registry](https://pypi.org/project/apipod-registry/) | 0.1.9 | Parse, hold and persist AIServices: the registry for APIPod clients. | 95 | 2026-10-09 |
 | [cadpilot](https://pypi.org/project/cadpilot/) | 0.7.6 | CADPilot-MCP: Automatic CAD — MCP server that lets AI clients drive FreeCAD to create, edi | 90 | 2026-10-06 |
 | [pten](https://pypi.org/project/pten/) | 0.4.16 | A tool to use WeWork(企业微信) and feishu(飞书) API quickly and easily | 90 | 2026-10-06 |
 | [pyrig](https://pypi.org/project/pyrig/) | 18.98.0 | A Python project setup and management tool built on infrastructure as code and convention  | 90 | 2026-10-06 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [mixpeek](https://pypi.org/project/mixpeek/) | 1.3.688 | Mixpeek: the semantic retrieval layer for unstructured and multimodal data | 90 | 2026-09-15 |
 | [tokenspeed-smg-grpc-proto](https://pypi.org/project/tokenspeed-smg-grpc-proto/) | 0.4.18.post20260915 | SMG gRPC proto definitions for vLLM, TRT-LLM, MLX, TokenSpeed, and SGLang | 90 | 2026-09-15 |
 | [llmtrim](https://pypi.org/project/llmtrim/) | 0.13.5 | Static, deterministic LLM prompt/payload compression that cuts input tokens 30-90% with ze | 95 | 2026-09-15 |
-| [chinese-char-counter-mcp](https://pypi.org/project/chinese-char-counter-mcp/) | 0.1.1 | MCP server (stdio) that counts Chinese characters in a text, excluding punctuation, whites | 80 | 2026-09-11 |
-| [sema-core](https://pypi.org/project/sema-core/) | 2.1.0 | Python SDK for sema-core: thin client over the sema-grpc bridge | 90 | 2026-09-11 |
-| [pykokoro](https://pypi.org/project/pykokoro/) | 0.9.4 | A python library for Kokoro TTS | 90 | 2026-09-11 |
-| [protolib](https://pypi.org/project/protolib/) | 0.4.4 | Pure-Python, from-scratch declarative binary protocol (de)serializer — node-protodef style | 95 | 2026-09-11 |
-| [prompt-flamegraph](https://pypi.org/project/prompt-flamegraph/) | 0.3.0 | Lightweight, dependency-free prompt context flamegraph generator for LLMs | 95 | 2026-09-11 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [z91772524-ai/pojia-next](https://github.com/z91772524-ai/pojia-next) | 一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、 | 198 | 9.4 | 2026-10-09 |
+| [Sidiora-Labs/centra-gideon-agent](https://github.com/Sidiora-Labs/centra-gideon-agent) | The companion AI agent that learns, adapts and gets the work done no matter the  | 217 | 9.9 | 2026-10-09 |
+| [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 148 | 148.0 | 2026-10-09 |
+| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net wo | 707 | 353.5 | 2026-10-09 |
+| [yi1108/printfilm](https://github.com/yi1108/printfilm) | PRINTFILM: AI short-video marketing and AI short-drama creation platform | 5053 | 174.2 | 2026-10-09 |
 | [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Ch | 814 | 162.8 | 2026-10-06 |
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Answer me with HTML — an agent skill that answers hard questions with a one-page | 1583 | 395.8 | 2026-10-06 |
 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全 | 1885 | 171.4 | 2026-10-06 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配 | 3113 | 135.3 | 2026-09-15 |
 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 813 | 271.0 | 2026-09-15 |
 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | Professional agent skills for screenwriting, television writing and dramaturgy | 1123 | 140.4 | 2026-09-15 |
-| [datawhalechina/zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) | Official SGLang × Datawhale course on LLM inference (中英双语): understand inference | 732 | 48.8 | 2026-09-11 |
-| [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | Long-term memory runtime for AI agents — plain Markdown as the source of truth,  | 963 | 107.0 | 2026-09-11 |
-| [Player-YN/PawWork_ZhuaZhua](https://github.com/Player-YN/PawWork_ZhuaZhua) | Paw Work - selection-first web agent for Chrome: select on the live page, descri | 2546 | 195.8 | 2026-09-11 |
-| [jzjzzzzzzz/agent-me](https://github.com/jzjzzzzzzz/agent-me) | Distill your knowledge, memories, and decisions into an open-source, inspectable | 184 | 12.3 | 2026-09-11 |
-| [crwdla/tokentab](https://github.com/crwdla/tokentab) | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out h | 318 | 106.0 | 2026-09-11 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-06** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-02** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-29** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
