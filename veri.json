@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-09",
+   "son_test": "2026-10-13",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "invisible-puppeteer",
+   "aciklama": "pyppeteer's API for a patched Firefox with a deterministic stealth profile.",
+   "surum": "0.4.0",
+   "ozet": "pyppeteer's API for a patched Firefox with a deterministic stealth profile.",
+   "surum_sayisi": 16,
+   "depo": "https://github.com/feder-cr/invisible_puppeteer/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/invisible-puppeteer/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "ww-agentic-workflows",
+   "aciklama": "A local-first, resumable workflow CLI for people and AI agents.",
+   "surum": "1.0.0b2",
+   "ozet": "A local-first, resumable workflow CLI for people and AI agents.",
+   "surum_sayisi": 13,
+   "depo": "https://github.com/from-developers-for-developers/agentic-workflows/blob/main/CHANGELOG.md",
+   "lisans": "GPL-3.0-or-later",
+   "adres": "https://pypi.org/project/ww-agentic-workflows/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "prizm-adls-scanner",
+   "aciklama": "Prizm Databricks Exception, Lookup, Comparison, and Materialize job runtime",
+   "surum": "0.3.8",
+   "ozet": "Prizm Databricks Exception, Lookup, Comparison, and Materialize job runtime",
+   "surum_sayisi": 31,
+   "depo": "https://github.com/DQLabs-Inc/prizm-cli/issues",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/prizm-adls-scanner/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "stabilize",
+   "aciklama": "Stabilize Workflow Orchestration - Agentic Parallel Workflows",
+   "surum": "0.33.1",
+   "ozet": "Stabilize Workflow Orchestration - Agentic Parallel Workflows",
+   "surum_sayisi": 79,
+   "depo": "https://github.com/rodmena-limited/stabilize",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/stabilize/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "xstate-statemachine",
+   "aciklama": "A robust Python library for parsing and running XState JSON state machines.",
+   "surum": "0.11.0",
+   "ozet": "A robust Python library for parsing and running XState JSON state machines.",
+   "surum_sayisi": 23,
+   "depo": "https://github.com/basiltt/xstate-statemachine/issues",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/xstate-statemachine/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
   {
    "kaynak": "pypi",
    "ad": "teddy-cli",
@@ -917,6 +992,137 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "xcisxc29/dsh-wechat",
+   "aciklama": "WeChat channel for DeepSeek Harness",
+   "yildiz": 147,
+   "yildiz_hizi": 29.4,
+   "dil": "TypeScript",
+   "adres": "https://github.com/xcisxc29/dsh-wechat",
+   "konular": [
+    "ai-agent",
+    "automation",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "remote-control",
+    "wechat",
+    "wechat-bot"
+   ],
+   "yas_gun": 5,
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "onehumanbeing/esp32-iphone-agent",
+   "aciklama": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+   "yildiz": 1114,
+   "yildiz_hizi": 1114.0,
+   "dil": "Python",
+   "adres": "https://github.com/onehumanbeing/esp32-iphone-agent",
+   "konular": [
+    "ai-agent",
+    "airplay",
+    "automation",
+    "computer-use",
+    "esp32",
+    "esp32-s3",
+    "iphone",
+    "llm",
+    "usb-hid"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "jiwoochris/artex-ko",
+   "aciklama": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "yildiz": 1408,
+   "yildiz_hizi": 156.4,
+   "dil": "Go",
+   "adres": "https://github.com/jiwoochris/artex-ko",
+   "konular": [
+    "ai-agent",
+    "autonomous-agents",
+    "blue-team",
+    "cybersecurity",
+    "detection-engineering",
+    "i18n",
+    "korean",
+    "llm",
+    "penetration-testing",
+    "security",
+    "security-research",
+    "security-tools",
+    "sigma-rules",
+    "threat-detection"
+   ],
+   "yas_gun": 9,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "onehumanbeing/esp32-iphone-agent",
+   "aciklama": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+   "yildiz": 1114,
+   "yildiz_hizi": 1114.0,
+   "dil": "Python",
+   "adres": "https://github.com/onehumanbeing/esp32-iphone-agent",
+   "konular": [
+    "ai-agent",
+    "airplay",
+    "automation",
+    "computer-use",
+    "esp32",
+    "esp32-s3",
+    "iphone",
+    "llm",
+    "usb-hid"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "zhuyansen/new-term-radar",
+   "aciklama": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+   "yildiz": 758,
+   "yildiz_hizi": 758.0,
+   "dil": "Python",
+   "adres": "https://github.com/zhuyansen/new-term-radar",
+   "konular": [
+    "agent-skills",
+    "ai",
+    "aisa",
+    "claude-code",
+    "claude-skills",
+    "google-trends",
+    "keyword-research",
+    "mcp",
+    "mcp-server",
+    "seo",
+    "trends"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-13"
+  },
   {
    "kaynak": "github",
    "ad": "z91772524-ai/pojia-next",
@@ -2364,6 +2570,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-13",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-09",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
