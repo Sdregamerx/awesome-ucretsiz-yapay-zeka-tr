@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-09-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-13-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-09 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-09 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-09 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-09 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-09 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-09 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-09 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-09 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-13 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-13 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-13 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-13 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-13 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-13 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-13 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-13 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [invisible-puppeteer](https://pypi.org/project/invisible-puppeteer/) | 0.4.0 | pyppeteer's API for a patched Firefox with a deterministic stealth profile. | 90 | 2026-10-13 |
+| [ww-agentic-workflows](https://pypi.org/project/ww-agentic-workflows/) | 1.0.0b2 | A local-first, resumable workflow CLI for people and AI agents. | 95 | 2026-10-13 |
+| [prizm-adls-scanner](https://pypi.org/project/prizm-adls-scanner/) | 0.3.8 | Prizm Databricks Exception, Lookup, Comparison, and Materialize job runtime | 95 | 2026-10-13 |
+| [stabilize](https://pypi.org/project/stabilize/) | 0.33.1 | Stabilize Workflow Orchestration - Agentic Parallel Workflows | 95 | 2026-10-13 |
+| [xstate-statemachine](https://pypi.org/project/xstate-statemachine/) | 0.11.0 | A robust Python library for parsing and running XState JSON state machines. | 95 | 2026-10-13 |
 | [teddy-cli](https://pypi.org/project/teddy-cli/) | 0.1.16 | A local-first, file-based AI coding workflow that applies the UNIX philosophy to AI collab | 80 | 2026-10-09 |
 | [bouwmeester-lockbox-api](https://pypi.org/project/bouwmeester-lockbox-api/) | 0.1.4 | Python client for the Bouwmeester Lab Lockbox REST API | 85 | 2026-10-09 |
 | [APIPod](https://pypi.org/project/APIPod/) | 1.0.29 | Create web-APIs for long-running tasks | 90 | 2026-10-09 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [pypepper](https://pypi.org/project/pypepper/) | 0.6.6 | PyPepper is a microservice toolkit written in Python. | 85 | 2026-09-18 |
 | [entropy-data](https://pypi.org/project/entropy-data/) | 0.3.22 | CLI for Entropy Data | 85 | 2026-09-18 |
 | [danvas](https://pypi.org/project/danvas/) | 0.7.0 | A browser-based spatial canvas with UI panels defined and controlled from Python. | 90 | 2026-09-18 |
-| [tokenspeed-smg-grpc-servicer](https://pypi.org/project/tokenspeed-smg-grpc-servicer/) | 0.9.1.post20260915 | SMG gRPC servicer implementations for LLM inference engines (vLLM, MLX, TokenSpeed, SGLang | 90 | 2026-09-15 |
-| [prauga-flexdoc](https://pypi.org/project/prauga-flexdoc/) | 0.7.3 | Self-contained ASGI and WSGI adapters for the Prauga FlexDoc OpenAPI renderer | 90 | 2026-09-15 |
-| [mixpeek](https://pypi.org/project/mixpeek/) | 1.3.688 | Mixpeek: the semantic retrieval layer for unstructured and multimodal data | 90 | 2026-09-15 |
-| [tokenspeed-smg-grpc-proto](https://pypi.org/project/tokenspeed-smg-grpc-proto/) | 0.4.18.post20260915 | SMG gRPC proto definitions for vLLM, TRT-LLM, MLX, TokenSpeed, and SGLang | 90 | 2026-09-15 |
-| [llmtrim](https://pypi.org/project/llmtrim/) | 0.13.5 | Static, deterministic LLM prompt/payload compression that cuts input tokens 30-90% with ze | 95 | 2026-09-15 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) | WeChat channel for DeepSeek Harness | 147 | 29.4 | 2026-10-13 |
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands,  | 1114 | 1114.0 | 2026-10-13 |
+| [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) | 1408 | 156.4 | 2026-10-13 |
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands,  | 1114 | 1114.0 | 2026-10-13 |
+| [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products and repos, caught on | 758 | 758.0 | 2026-10-13 |
 | [z91772524-ai/pojia-next](https://github.com/z91772524-ai/pojia-next) | 一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、 | 198 | 9.4 | 2026-10-09 |
 | [Sidiora-Labs/centra-gideon-agent](https://github.com/Sidiora-Labs/centra-gideon-agent) | The companion AI agent that learns, adapts and gets the work done no matter the  | 217 | 9.9 | 2026-10-09 |
 | [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 148 | 148.0 | 2026-10-09 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [jub0t/Concat](https://github.com/jub0t/Concat) | Open-Source CapCut replacement (MCP supported). | 2751 | 119.6 | 2026-09-18 |
 | [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 2026 年编程导航 AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI | 180 | 10.6 | 2026-09-18 |
 | [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) | Computer use for about $0.0002 a step: OCR the screen, classify the next action  | 182 | 182.0 | 2026-09-18 |
-| [rome-os/rome](https://github.com/rome-os/rome) | A compounding agent OS for recursive agents. Also an open source alternative to  | 499 | 21.7 | 2026-09-15 |
-| [panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare) | AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本 | 680 | 27.2 | 2026-09-15 |
-| [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配 | 3113 | 135.3 | 2026-09-15 |
-| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 813 | 271.0 | 2026-09-15 |
-| [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | Professional agent skills for screenwriting, television writing and dramaturgy | 1123 | 140.4 | 2026-09-15 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-13** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-06** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-02** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
