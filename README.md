@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-13-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-16-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-13 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-13 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-13 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-13 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-13 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-13 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-13 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-13 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-16 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-16 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-16 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-16 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-16 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-16 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-16 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-16 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [ryde-cli](https://pypi.org/project/ryde-cli/) | 0.1.1 | Unofficial Ryde CLI, local ride-map dashboard, and read-only MCP server | 75 | 2026-10-16 |
+| [strike-ai](https://pypi.org/project/strike-ai/) | 0.1.1 | Client for the Strike API: typed yes/no, choice, and score decisions. | 75 | 2026-10-16 |
+| [pykorail](https://pypi.org/project/pykorail/) | 0.4.0 | 코레일(KTX) 스마트 예매 비공식 Python 클라이언트 | 85 | 2026-10-16 |
+| [sciwidgets](https://pypi.org/project/sciwidgets/) | 0.9.1 | PySide6 widgets for scientific desktop apps: LaTeX labels, sliders, parameter panels, Matp | 90 | 2026-10-16 |
+| [minibot](https://pypi.org/project/minibot/) | 0.33.0 | Self-hosted Telegram-first AI assistant with async tooling, memory, and scheduling. | 95 | 2026-10-16 |
 | [invisible-puppeteer](https://pypi.org/project/invisible-puppeteer/) | 0.4.0 | pyppeteer's API for a patched Firefox with a deterministic stealth profile. | 90 | 2026-10-13 |
 | [ww-agentic-workflows](https://pypi.org/project/ww-agentic-workflows/) | 1.0.0b2 | A local-first, resumable workflow CLI for people and AI agents. | 95 | 2026-10-13 |
 | [prizm-adls-scanner](https://pypi.org/project/prizm-adls-scanner/) | 0.3.8 | Prizm Databricks Exception, Lookup, Comparison, and Materialize job runtime | 95 | 2026-10-13 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [paystore](https://pypi.org/project/paystore/) | 0.2.1 | A unified Python library for integrating multiple payment providers | 80 | 2026-09-22 |
 | [chassis-harness](https://pypi.org/project/chassis-harness/) | 0.8.1 | Chassis: transactional runtime composition for dynamic agent systems -- scoped ownership,  | 90 | 2026-09-22 |
 | [skill-lens](https://pypi.org/project/skill-lens/) | 0.13.0 | Run evaluations on Agent Skills (SKILL.md) in CI/CD or manually | 95 | 2026-09-22 |
-| [fomo-iqa](https://pypi.org/project/fomo-iqa/) | 1.0.1 | FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance — reference-based p | 80 | 2026-09-18 |
-| [gitea-toolkit-mcp](https://pypi.org/project/gitea-toolkit-mcp/) | 0.9.4 | Gitea 的 MCP 工具服务（stdio）：仓库 / Issue / Pull Request / 通知 / Gitea Actions 的读写。与 gitea-toolkit | 80 | 2026-09-18 |
-| [pypepper](https://pypi.org/project/pypepper/) | 0.6.6 | PyPepper is a microservice toolkit written in Python. | 85 | 2026-09-18 |
-| [entropy-data](https://pypi.org/project/entropy-data/) | 0.3.22 | CLI for Entropy Data | 85 | 2026-09-18 |
-| [danvas](https://pypi.org/project/danvas/) | 0.7.0 | A browser-based spatial canvas with UI panels defined and controlled from Python. | 90 | 2026-09-18 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | 7858 | 462.2 | 2026-10-16 |
+| [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) | nanoMuse: an open-source personal agent for every device you own. One agent with | 1306 | 56.8 | 2026-10-16 |
+| [datalab-to/indra](https://github.com/datalab-to/indra) | Fast CPU OCR: line detection, CTC recognition, reading order, markdown | 382 | 191.0 | 2026-10-16 |
+| [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) | 1567 | 130.6 | 2026-10-16 |
+| [hitkeeen/blender-ai-addon](https://github.com/hitkeeen/blender-ai-addon) | Blender add-on: create and edit 3D models by chatting with AI - send text or an  | 215 | 30.7 | 2026-10-16 |
 | [xcisxc29/dsh-wechat](https://github.com/xcisxc29/dsh-wechat) | WeChat channel for DeepSeek Harness | 147 | 29.4 | 2026-10-13 |
 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands,  | 1114 | 1114.0 | 2026-10-13 |
 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) | 1408 | 156.4 | 2026-10-13 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [Player-YN/BrowserKitten](https://github.com/Player-YN/BrowserKitten) | Paw Work - selection-first web agent for Chrome: select on the live page, descri | 2907 | 121.1 | 2026-09-22 |
 | [markfulton/ai-employees](https://github.com/markfulton/ai-employees) | Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Cod | 367 | 19.3 | 2026-09-22 |
 | [AppitStudio/awesome-jev](https://github.com/AppitStudio/awesome-jev) | Curated Jev resources and runnable examples for typed AI decisions. | 74 | 24.7 | 2026-09-22 |
-| [Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | Free open-source project designed for turning youtube-viedos into viral short vi | 744 | 82.7 | 2026-09-18 |
-| [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | Continual learning infra for self-improving agents | 3504 | 194.7 | 2026-09-18 |
-| [jub0t/Concat](https://github.com/jub0t/Concat) | Open-Source CapCut replacement (MCP supported). | 2751 | 119.6 | 2026-09-18 |
-| [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 2026 年编程导航 AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI | 180 | 10.6 | 2026-09-18 |
-| [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) | Computer use for about $0.0002 a step: OCR the screen, classify the next action  | 182 | 182.0 | 2026-09-18 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-16** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-13** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-06** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -141,7 +142,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-09-18** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-15** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-11** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-09-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
