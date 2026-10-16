@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-13",
+   "son_test": "2026-10-16",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "ryde-cli",
+   "aciklama": "Unofficial Ryde CLI, local ride-map dashboard, and read-only MCP server",
+   "surum": "0.1.1",
+   "ozet": "Unofficial Ryde CLI, local ride-map dashboard, and read-only MCP server",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/HelgeSverre/ryde-cli/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/ryde-cli/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "strike-ai",
+   "aciklama": "Client for the Strike API: typed yes/no, choice, and score decisions.",
+   "surum": "0.1.1",
+   "ozet": "Client for the Strike API: typed yes/no, choice, and score decisions.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/strikeai/strike",
+   "lisans": "",
+   "adres": "https://pypi.org/project/strike-ai/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pykorail",
+   "aciklama": "코레일(KTX) 스마트 예매 비공식 Python 클라이언트",
+   "surum": "0.4.0",
+   "ozet": "코레일(KTX) 스마트 예매 비공식 Python 클라이언트",
+   "surum_sayisi": 9,
+   "depo": "https://github.com/devgyurak/pykorail",
+   "lisans": "",
+   "adres": "https://pypi.org/project/pykorail/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "sciwidgets",
+   "aciklama": "PySide6 widgets for scientific desktop apps: LaTeX labels, sliders, parameter panels, Matplotlib plot canvas, DataFrame tables and dialogs",
+   "surum": "0.9.1",
+   "ozet": "PySide6 widgets for scientific desktop apps: LaTeX labels, sliders, parameter panels, Matplotlib plot canvas, DataFrame tables and dialogs",
+   "surum_sayisi": 13,
+   "depo": "https://github.com/vahid-anari/sciwidgets",
+   "lisans": "",
+   "adres": "https://pypi.org/project/sciwidgets/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "minibot",
+   "aciklama": "Self-hosted Telegram-first AI assistant with async tooling, memory, and scheduling.",
+   "surum": "0.33.0",
+   "ozet": "Self-hosted Telegram-first AI assistant with async tooling, memory, and scheduling.",
+   "surum_sayisi": 47,
+   "depo": "https://github.com/sonic182/minibot",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/minibot/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
   {
    "kaynak": "pypi",
    "ad": "invisible-puppeteer",
@@ -992,6 +1067,146 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "KKKKhazix/AIHOT",
+   "aciklama": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+   "yildiz": 7858,
+   "yildiz_hizi": 462.2,
+   "dil": "TypeScript",
+   "adres": "https://github.com/KKKKhazix/AIHOT",
+   "konular": [
+    "ai",
+    "chinese",
+    "content-curation",
+    "daily-digest",
+    "docker-compose",
+    "llm",
+    "mcp",
+    "news-aggregator",
+    "postgresql",
+    "rss",
+    "self-hosted",
+    "typescript"
+   ],
+   "yas_gun": 17,
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "github",
+   "ad": "nano-muse/nanoMuse",
+   "aciklama": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+   "yildiz": 1306,
+   "yildiz_hizi": 56.8,
+   "dil": "Swift",
+   "adres": "https://github.com/nano-muse/nanoMuse",
+   "konular": [
+    "agent-skills",
+    "ai-agent",
+    "android",
+    "computer-use",
+    "cross-device",
+    "desktop-app",
+    "gui-agent",
+    "ios",
+    "linux",
+    "llm",
+    "mcp",
+    "meta-muse",
+    "mobile-agent",
+    "muse",
+    "nanomuse",
+    "openminis",
+    "openmuse",
+    "personal-agent"
+   ],
+   "yas_gun": 23,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "github",
+   "ad": "datalab-to/indra",
+   "aciklama": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+   "yildiz": 382,
+   "yildiz_hizi": 191.0,
+   "dil": "Python",
+   "adres": "https://github.com/datalab-to/indra",
+   "konular": [
+    "ai",
+    "cpu",
+    "document-parsing",
+    "ocr",
+    "onnx",
+    "pdf"
+   ],
+   "yas_gun": 2,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "github",
+   "ad": "jiwoochris/artex-global",
+   "aciklama": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "yildiz": 1567,
+   "yildiz_hizi": 130.6,
+   "dil": "Go",
+   "adres": "https://github.com/jiwoochris/artex-global",
+   "konular": [
+    "ai-agent",
+    "autonomous-agents",
+    "blue-team",
+    "cybersecurity",
+    "detection-engineering",
+    "i18n",
+    "korean",
+    "llm",
+    "penetration-testing",
+    "security",
+    "security-research",
+    "security-tools",
+    "sigma-rules",
+    "threat-detection"
+   ],
+   "yas_gun": 12,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
+  {
+   "kaynak": "github",
+   "ad": "hitkeeen/blender-ai-addon",
+   "aciklama": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+   "yildiz": 215,
+   "yildiz_hizi": 30.7,
+   "dil": "Python",
+   "adres": "https://github.com/hitkeeen/blender-ai-addon",
+   "konular": [
+    "3d-graphics",
+    "ai",
+    "blender",
+    "blender-addon",
+    "blender-plugin",
+    "chatgpt",
+    "generative-ai",
+    "gpt",
+    "llm",
+    "python"
+   ],
+   "yas_gun": 7,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-16"
+  },
   {
    "kaynak": "github",
    "ad": "xcisxc29/dsh-wechat",
@@ -2570,6 +2785,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-16",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-13",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
