@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-16-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-20-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-16 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-16 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-16 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-16 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-16 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-16 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-16 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-16 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-20 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-20 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-20 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-20 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-20 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-20 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-20 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-20 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [tamias](https://pypi.org/project/tamias/) | 0.1.0a8 | Local HTTP proxy that logs token usage and cost per request for OpenAI-compatible agents. | 75 | 2026-10-20 |
+| [biocartoon](https://pypi.org/project/biocartoon/) | 0.1.1 | Search and download the BioCartoon catalog of open-licensed scientific illustrations from  | 75 | 2026-10-20 |
+| [seam](https://pypi.org/project/seam/) | 3.18.0 | SDK for the Seam API written in Python. | 85 | 2026-10-20 |
+| [ho](https://pypi.org/project/ho/) | 0.0.18 | Http Objects - Tools to make python interfaces to http services | 90 | 2026-10-20 |
+| [pubmed-search-mcp](https://pypi.org/project/pubmed-search-mcp/) | 0.8.0 | MCP SDK v2 server for PubMed and multi-source biomedical literature research | 90 | 2026-10-20 |
 | [ryde-cli](https://pypi.org/project/ryde-cli/) | 0.1.1 | Unofficial Ryde CLI, local ride-map dashboard, and read-only MCP server | 75 | 2026-10-16 |
 | [strike-ai](https://pypi.org/project/strike-ai/) | 0.1.1 | Client for the Strike API: typed yes/no, choice, and score decisions. | 75 | 2026-10-16 |
 | [pykorail](https://pypi.org/project/pykorail/) | 0.4.0 | 코레일(KTX) 스마트 예매 비공식 Python 클라이언트 | 85 | 2026-10-16 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [maplibre-tiles](https://pypi.org/project/maplibre-tiles/) | 0.2.0 | Python bindings for MapLibre Tile (MLT) format | 90 | 2026-09-25 |
 | [heylead](https://pypi.org/project/heylead/) | 0.10.399 | MCP-native autonomous LinkedIn SDR. Your AI sales rep, one command to fill your pipeline. | 90 | 2026-09-25 |
 | [bonicos](https://pypi.org/project/bonicos/) | 0.11.0 | One Python SDK for every BonicBot — transport-agnostic, replaces bonicbot (BLE) and bonicb | 95 | 2026-09-25 |
-| [Pipx40](https://pypi.org/project/Pipx40/) | 1.58 | Python Pipx40 is a Python wrapper for Pickering PXI VISA-compliant driver | 80 | 2026-09-22 |
-| [pyusbxpress](https://pypi.org/project/pyusbxpress/) | 0.1.2 | Cross-platform Python client for Silicon Labs USBXpress devices (no vendor driver required | 80 | 2026-09-22 |
-| [paystore](https://pypi.org/project/paystore/) | 0.2.1 | A unified Python library for integrating multiple payment providers | 80 | 2026-09-22 |
-| [chassis-harness](https://pypi.org/project/chassis-harness/) | 0.8.1 | Chassis: transactional runtime composition for dynamic agent systems -- scoped ownership,  | 90 | 2026-09-22 |
-| [skill-lens](https://pypi.org/project/skill-lens/) | 0.13.0 | Run evaluations on Agent Skills (SKILL.md) in CI/CD or manually | 95 | 2026-09-22 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [openspline/openspline](https://github.com/openspline/openspline) | Give a face to your voice AI in 5 lines of code. Generate realtime avatar video  | 225 | 11.2 | 2026-10-20 |
+| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & | 2077 | 115.4 | 2026-10-20 |
+| [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | 2388 | 298.5 | 2026-10-20 |
+| [Hybirdss/Hycli](https://github.com/Hybirdss/Hycli) | Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, wi | 345 | 34.5 | 2026-10-20 |
+| [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | A curated collection of REA and AI-assisted reverse engineering cases, projects, | 292 | 36.5 | 2026-10-20 |
 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | 7858 | 462.2 | 2026-10-16 |
 | [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) | nanoMuse: an open-source personal agent for every device you own. One agent with | 1306 | 56.8 | 2026-10-16 |
 | [datalab-to/indra](https://github.com/datalab-to/indra) | Fast CPU OCR: line detection, CTC recognition, reading order, markdown | 382 | 191.0 | 2026-10-16 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [TokenRhythm/NeoHorse](https://github.com/TokenRhythm/NeoHorse) | NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Ro | 981 | 46.7 | 2026-09-25 |
 | [kishormorol/cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts) | An Agent Skill that turns the asks you keep typing into short commands, mined fr | 104 | 17.3 | 2026-09-25 |
 | [yukitorido/short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI) | AI video processing pipeline for generating vertical shorts using LLMs, Whisper  | 348 | 348.0 | 2026-09-25 |
-| [kraayenjon/awesome-jev](https://github.com/kraayenjon/awesome-jev) | A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe  | 101 | 33.7 | 2026-09-22 |
-| [yibie/awesome-jev](https://github.com/yibie/awesome-jev) | A curated list of public projects, integrations, and discussions built on Jev —  | 1154 | 288.5 | 2026-09-22 |
-| [Player-YN/BrowserKitten](https://github.com/Player-YN/BrowserKitten) | Paw Work - selection-first web agent for Chrome: select on the live page, descri | 2907 | 121.1 | 2026-09-22 |
-| [markfulton/ai-employees](https://github.com/markfulton/ai-employees) | Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Cod | 367 | 19.3 | 2026-09-22 |
-| [AppitStudio/awesome-jev](https://github.com/AppitStudio/awesome-jev) | Curated Jev resources and runnable examples for typed AI decisions. | 74 | 24.7 | 2026-09-22 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-20** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-16** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-13** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -142,7 +143,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-09-18** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-15** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-11** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-09-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
 
