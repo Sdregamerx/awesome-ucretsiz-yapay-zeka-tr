@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-16",
+   "son_test": "2026-10-20",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "tamias",
+   "aciklama": "Local HTTP proxy that logs token usage and cost per request for OpenAI-compatible agents.",
+   "surum": "0.1.0a8",
+   "ozet": "Local HTTP proxy that logs token usage and cost per request for OpenAI-compatible agents.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/kr1shnac/tamias/blob/master/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/tamias/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "biocartoon",
+   "aciklama": "Search and download the BioCartoon catalog of open-licensed scientific illustrations from a shell or an MCP client",
+   "surum": "0.1.1",
+   "ozet": "Search and download the BioCartoon catalog of open-licensed scientific illustrations from a shell or an MCP client",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/josephrich98/biocartoon",
+   "lisans": "",
+   "adres": "https://pypi.org/project/biocartoon/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "seam",
+   "aciklama": "SDK for the Seam API written in Python.",
+   "surum": "3.18.0",
+   "ozet": "SDK for the Seam API written in Python.",
+   "surum_sayisi": 225,
+   "depo": "https://github.com/seamapi/python",
+   "lisans": "",
+   "adres": "https://pypi.org/project/seam/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "ho",
+   "aciklama": "Http Objects - Tools to make python interfaces to http services",
+   "surum": "0.0.18",
+   "ozet": "Http Objects - Tools to make python interfaces to http services",
+   "surum_sayisi": 16,
+   "depo": "https://github.com/i2mint/ho",
+   "lisans": "",
+   "adres": "https://pypi.org/project/ho/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pubmed-search-mcp",
+   "aciklama": "MCP SDK v2 server for PubMed and multi-source biomedical literature research",
+   "surum": "0.8.0",
+   "ozet": "MCP SDK v2 server for PubMed and multi-source biomedical literature research",
+   "surum_sayisi": 67,
+   "depo": "https://github.com/u9401066/pubmed-search-mcp",
+   "lisans": "",
+   "adres": "https://pypi.org/project/pubmed-search-mcp/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
   {
    "kaynak": "pypi",
    "ad": "ryde-cli",
@@ -1067,6 +1142,138 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "openspline/openspline",
+   "aciklama": "Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI locally",
+   "yildiz": 225,
+   "yildiz_hizi": 11.2,
+   "dil": "Python",
+   "adres": "https://github.com/openspline/openspline",
+   "konular": [
+    "ai",
+    "ai-avatar",
+    "avatar",
+    "elevenlabs",
+    "gemini",
+    "lip-sync",
+    "livekit",
+    "local-first",
+    "openai",
+    "openai-realtime",
+    "pipecat",
+    "realtime",
+    "talking-head",
+    "voiceai",
+    "webrtc"
+   ],
+   "yas_gun": 20,
+   "puan": 98,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Folkbench/folkbench",
+   "aciklama": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
+   "yildiz": 2077,
+   "yildiz_hizi": 115.4,
+   "dil": "Rust",
+   "adres": "https://github.com/Folkbench/folkbench",
+   "konular": [
+    "ai",
+    "api-relay",
+    "api-relay-pricing",
+    "benchmark",
+    "benchmarks",
+    "claude",
+    "claude-code",
+    "codex",
+    "folkbench",
+    "llm",
+    "model-evaluation",
+    "openai-api",
+    "reliability",
+    "tauri"
+   ],
+   "yas_gun": 18,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "github",
+   "ad": "deeplethe/solid-glass",
+   "aciklama": "A design system for AI applications. Material, physical, tactile, technical.",
+   "yildiz": 2388,
+   "yildiz_hizi": 298.5,
+   "dil": "TypeScript",
+   "adres": "https://github.com/deeplethe/solid-glass",
+   "konular": [
+    "agent-ui",
+    "ai",
+    "ai-agents",
+    "chat-ui",
+    "design-system",
+    "llm",
+    "react",
+    "shadcn",
+    "shadcn-ui",
+    "tailwindcss",
+    "theme"
+   ],
+   "yas_gun": 8,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Hybirdss/Hycli",
+   "aciklama": "Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, with a local dashboard and 20 languages.",
+   "yildiz": 345,
+   "yildiz_hizi": 34.5,
+   "dil": "Rust",
+   "adres": "https://github.com/Hybirdss/Hycli",
+   "konular": [
+    "ai-agents",
+    "automation",
+    "cli",
+    "developer-tools",
+    "local-first",
+    "mcp",
+    "rust",
+    "websites"
+   ],
+   "yas_gun": 10,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
+  {
+   "kaynak": "github",
+   "ad": "songshikang0111/awesome-REA-cases",
+   "aciklama": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
+   "yildiz": 292,
+   "yildiz_hizi": 36.5,
+   "dil": "Python",
+   "adres": "https://github.com/songshikang0111/awesome-REA-cases",
+   "konular": [
+    "ai",
+    "awesome-list",
+    "rea",
+    "reverse-engineering"
+   ],
+   "yas_gun": 8,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-20"
+  },
   {
    "kaynak": "github",
    "ad": "KKKKhazix/AIHOT",
@@ -2785,6 +2992,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-20",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-16",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
