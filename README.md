@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-20-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-23-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-20 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-20 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-20 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-20 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-20 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-20 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-20 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-20 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-23 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-23 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-23 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-23 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-23 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-23 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-23 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-23 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [lx-annotate](https://pypi.org/project/lx-annotate/) | 1.6.0 | This webapp provides a frontend interface for pseudonymizing and annotating data and apply | 75 | 2026-10-23 |
+| [crowsnest](https://pypi.org/project/crowsnest/) | 0.0.98 | One session that watches your other Claude Code sessions: who is busy, who is waiting on y | 90 | 2026-10-23 |
+| [traigent](https://pypi.org/project/traigent/) | 0.30.0 | Enterprise-grade LLM optimization platform with advanced analytics and AI-powered insights | 90 | 2026-10-23 |
+| [attocode-code-intel](https://pypi.org/project/attocode-code-intel/) | 0.1.15 | Local code search and navigation for coding agents and people | 90 | 2026-10-23 |
+| [PyDTMC](https://pypi.org/project/PyDTMC/) | 10.1.0 | Python library for analyzing, simulating, and visualizing discrete-time Markov chains and  | 95 | 2026-10-23 |
 | [tamias](https://pypi.org/project/tamias/) | 0.1.0a8 | Local HTTP proxy that logs token usage and cost per request for OpenAI-compatible agents. | 75 | 2026-10-20 |
 | [biocartoon](https://pypi.org/project/biocartoon/) | 0.1.1 | Search and download the BioCartoon catalog of open-licensed scientific illustrations from  | 75 | 2026-10-20 |
 | [seam](https://pypi.org/project/seam/) | 3.18.0 | SDK for the Seam API written in Python. | 85 | 2026-10-20 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [searchmux](https://pypi.org/project/searchmux/) | 0.1.4 | The search layer for AI agents over SerpApi | 85 | 2026-09-29 |
 | [guillotina](https://pypi.org/project/guillotina/) | 7.1.5 | asyncio REST API Resource database | 90 | 2026-09-29 |
 | [argus-obs-semconv](https://pypi.org/project/argus-obs-semconv/) | 1.0.0a12 | Convenciones semanticas de Argus. Para LIBRERIAS: depende solo de la API de OpenTelemetry. | 95 | 2026-09-29 |
-| [spaex](https://pypi.org/project/spaex/) | 5.2.2 | spaex 4.0: reproducible coding harnesses for any repo. Compose skills, MCPs, constitutions | 80 | 2026-09-25 |
-| [srift](https://pypi.org/project/srift/) | 4.0.0.post1 | Zero-config, end-to-end encrypted peer-to-peer file transfer CLI and MCP server for AI age | 80 | 2026-09-25 |
-| [maplibre-tiles](https://pypi.org/project/maplibre-tiles/) | 0.2.0 | Python bindings for MapLibre Tile (MLT) format | 90 | 2026-09-25 |
-| [heylead](https://pypi.org/project/heylead/) | 0.10.399 | MCP-native autonomous LinkedIn SDR. Your AI sales rep, one command to fill your pipeline. | 90 | 2026-09-25 |
-| [bonicos](https://pypi.org/project/bonicos/) | 0.11.0 | One Python SDK for every BonicBot — transport-agnostic, replaces bonicbot (BLE) and bonicb | 95 | 2026-09-25 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [mw00/project-maya](https://github.com/mw00/project-maya) | Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B M | 1567 | 97.9 | 2026-10-23 |
+| [kukemc/bili-cli](https://github.com/kukemc/bili-cli) | 为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出 | 76 | 25.3 | 2026-10-23 |
+| [Harvil1/codeAgent](https://github.com/Harvil1/codeAgent) | CodeAgent is an open-source coding agent that lives in your terminal. It underst | 1026 | 48.9 | 2026-10-23 |
+| [StartLuxLabs/StartLux-Decision](https://github.com/StartLuxLabs/StartLux-Decision) | Open decision models from 0.8B to 27B: a calibrated probability for every option | 1377 | 59.9 | 2026-10-23 |
+| [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) | 1774 | 126.7 | 2026-10-23 |
 | [openspline/openspline](https://github.com/openspline/openspline) | Give a face to your voice AI in 5 lines of code. Generate realtime avatar video  | 225 | 11.2 | 2026-10-20 |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & | 2077 | 115.4 | 2026-10-20 |
 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | 2388 | 298.5 | 2026-10-20 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) | Turn any LLM into a Jev-style decision model: typed decisions, real probabilitie | 919 | 114.9 | 2026-09-29 |
 | [jamespolyakov9829/captcha-api](https://github.com/jamespolyakov9829/captcha-api) | Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface | 264 | 88.0 | 2026-09-29 |
 | [matank001/clodfarm](https://github.com/matank001/clodfarm) | clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they  | 80 | 20.0 | 2026-09-29 |
-| [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) | TypeLLM: LLMs with type-safe generation | 244 | 34.9 | 2026-09-25 |
-| [yetone/magpie](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the | 741 | 741.0 | 2026-09-25 |
-| [TokenRhythm/NeoHorse](https://github.com/TokenRhythm/NeoHorse) | NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Ro | 981 | 46.7 | 2026-09-25 |
-| [kishormorol/cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts) | An Agent Skill that turns the asks you keep typing into short commands, mined fr | 104 | 17.3 | 2026-09-25 |
-| [yukitorido/short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI) | AI video processing pipeline for generating vertical shorts using LLMs, Whisper  | 348 | 348.0 | 2026-09-25 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-23** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-20** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-16** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-13** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -142,7 +143,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-09-22** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-18** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-15** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-09-11** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
 
