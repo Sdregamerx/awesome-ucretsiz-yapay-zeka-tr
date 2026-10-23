@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-20",
+   "son_test": "2026-10-23",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "lx-annotate",
+   "aciklama": "This webapp provides a frontend interface for pseudonymizing and annotating data and applying AI predictions.",
+   "surum": "1.6.0",
+   "ozet": "This webapp provides a frontend interface for pseudonymizing and annotating data and applying AI predictions.",
+   "surum_sayisi": 210,
+   "depo": "",
+   "lisans": "",
+   "adres": "https://pypi.org/project/lx-annotate/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "crowsnest",
+   "aciklama": "One session that watches your other Claude Code sessions: who is busy, who is waiting on you, what each one just said, and how to ask one directly",
+   "surum": "0.0.98",
+   "ozet": "One session that watches your other Claude Code sessions: who is busy, who is waiting on you, what each one just said, and how to ask one directly",
+   "surum_sayisi": 97,
+   "depo": "https://github.com/thorwhalen/crowsnest",
+   "lisans": "",
+   "adres": "https://pypi.org/project/crowsnest/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "traigent",
+   "aciklama": "Enterprise-grade LLM optimization platform with advanced analytics and AI-powered insights",
+   "surum": "0.30.0",
+   "ozet": "Enterprise-grade LLM optimization platform with advanced analytics and AI-powered insights",
+   "surum_sayisi": 57,
+   "depo": "https://github.com/Traigent/Traigent/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/traigent/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "attocode-code-intel",
+   "aciklama": "Local code search and navigation for coding agents and people",
+   "surum": "0.1.15",
+   "ozet": "Local code search and navigation for coding agents and people",
+   "surum_sayisi": 16,
+   "depo": "https://github.com/eren23/attocode/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/attocode-code-intel/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "PyDTMC",
+   "aciklama": "Python library for analyzing, simulating, and visualizing discrete-time Markov chains and hidden Markov models.",
+   "surum": "10.1.0",
+   "ozet": "Python library for analyzing, simulating, and visualizing discrete-time Markov chains and hidden Markov models.",
+   "surum_sayisi": 68,
+   "depo": "https://github.com/TommasoBelluzzo/PyDTMC/issues",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/PyDTMC/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
   {
    "kaynak": "pypi",
    "ad": "tamias",
@@ -1142,6 +1217,155 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "mw00/project-maya",
+   "aciklama": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+   "yildiz": 1567,
+   "yildiz_hizi": 97.9,
+   "dil": "C++",
+   "adres": "https://github.com/mw00/project-maya",
+   "konular": [
+    "cuda",
+    "deepseek",
+    "deepseek-v4",
+    "glm",
+    "glm-5",
+    "llm",
+    "llm-inference",
+    "local-llm",
+    "mixture-of-experts",
+    "moe",
+    "openai-api",
+    "quantization",
+    "rocm",
+    "self-hosted"
+   ],
+   "yas_gun": 16,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "github",
+   "ad": "kukemc/bili-cli",
+   "aciklama": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+   "yildiz": 76,
+   "yildiz_hizi": 25.3,
+   "dil": "Python",
+   "adres": "https://github.com/kukemc/bili-cli",
+   "konular": [
+    "agent-skills",
+    "ai-agent",
+    "automation",
+    "bilibili",
+    "claude-code",
+    "cli",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "llm-tools",
+    "mcp",
+    "openclaw",
+    "qwen3-asr"
+   ],
+   "yas_gun": 3,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Harvil1/codeAgent",
+   "aciklama": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
+   "yildiz": 1026,
+   "yildiz_hizi": 48.9,
+   "dil": "Python",
+   "adres": "https://github.com/Harvil1/codeAgent",
+   "konular": [
+    "agent",
+    "ai-agent",
+    "cli",
+    "coding-agent",
+    "context-engineering",
+    "deepseek",
+    "llm",
+    "mcp",
+    "python",
+    "terminal"
+   ],
+   "yas_gun": 21,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "github",
+   "ad": "StartLuxLabs/StartLux-Decision",
+   "aciklama": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
+   "yildiz": 1377,
+   "yildiz_hizi": 59.9,
+   "dil": "Python",
+   "adres": "https://github.com/StartLuxLabs/StartLux-Decision",
+   "konular": [
+    "agents",
+    "calibration",
+    "classification",
+    "decision-making",
+    "gguf",
+    "inference",
+    "llama-cpp",
+    "llm",
+    "mlx",
+    "open-weights",
+    "reasoning",
+    "vllm"
+   ],
+   "yas_gun": 23,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
+  {
+   "kaynak": "github",
+   "ad": "trhhubsd/ARTEX",
+   "aciklama": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+   "yildiz": 1774,
+   "yildiz_hizi": 126.7,
+   "dil": "Go",
+   "adres": "https://github.com/trhhubsd/ARTEX",
+   "konular": [
+    "ai-agent",
+    "ai-security",
+    "artex",
+    "autonomous-agents",
+    "cybersecurity",
+    "go",
+    "hacking",
+    "llm",
+    "llm-agent",
+    "mcp",
+    "nextjs",
+    "offensive-security",
+    "penetration-testing",
+    "pentest",
+    "red-team",
+    "security",
+    "security-tools",
+    "vulnerability",
+    "vulnerability-scanners",
+    "web-security"
+   ],
+   "yas_gun": 14,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-23"
+  },
   {
    "kaynak": "github",
    "ad": "openspline/openspline",
@@ -2992,6 +3216,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-23",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-20",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
