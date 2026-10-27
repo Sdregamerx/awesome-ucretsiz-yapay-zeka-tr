@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-23",
+   "son_test": "2026-10-27",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "cairn-operator-eval-lm",
+   "aciklama": "eval/lm-eval: EleutherAI lm-evaluation-harness against a served candidate, and the eval.lm_eval flow stage that scores a base model and its adapter on the GPU box; task presets as pack data.",
+   "surum": "0.2.0",
+   "ozet": "eval/lm-eval: EleutherAI lm-evaluation-harness against a served candidate, and the eval.lm_eval flow stage that scores a base model and its adapter on the GPU box; task presets as pack data.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/cairndev-sh/cairn-extensions/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/cairn-operator-eval-lm/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "mite",
+   "aciklama": "A Python Performance Testing Framework",
+   "surum": "2.12.0",
+   "ozet": "A Python Performance Testing Framework",
+   "surum_sayisi": 49,
+   "depo": "https://github.com/sky-uk/mite/",
+   "lisans": "",
+   "adres": "https://pypi.org/project/mite/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "licentivo-sdk",
+   "aciklama": "Licentivo software licensing client",
+   "surum": "0.11.5",
+   "ozet": "Licentivo software licensing client",
+   "surum_sayisi": 6,
+   "depo": "https://github.com/spf86/licentivo-sdk/issues",
+   "lisans": "MIT License\n        \n        Copyright (",
+   "adres": "https://pypi.org/project/licentivo-sdk/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "apmw",
+   "aciklama": "Cross-platform wrapper for the apm CLI — places OpenCode plugins after install and update",
+   "surum": "1.1.4",
+   "ozet": "Cross-platform wrapper for the apm CLI — places OpenCode plugins after install and update",
+   "surum_sayisi": 8,
+   "depo": "https://github.com/GravionLabs/apmw/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/apmw/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "nexor-agora",
+   "aciklama": "Shared LAN chat where humans and their Claude Code agents collaborate",
+   "surum": "0.21.2",
+   "ozet": "Shared LAN chat where humans and their Claude Code agents collaborate",
+   "surum_sayisi": 61,
+   "depo": "https://github.com/nexorhq/nexor-agora",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/nexor-agora/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
   {
    "kaynak": "pypi",
    "ad": "lx-annotate",
@@ -1217,6 +1292,141 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "AbuZar-Ansarii/Ultron",
+   "aciklama": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
+   "yildiz": 130,
+   "yildiz_hizi": 16.2,
+   "dil": "Python",
+   "adres": "https://github.com/AbuZar-Ansarii/Ultron",
+   "konular": [
+    "aegnts",
+    "ai",
+    "ai-agents",
+    "aitools",
+    "jarvis",
+    "jarvis-ai",
+    "jarvis-ai-assistant",
+    "reverse-enginnering",
+    "reverseengineering",
+    "ultron"
+   ],
+   "yas_gun": 8,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "developeryj1992/ai-trend-studio",
+   "aciklama": "Local-first AI trend radar and live-session distillation",
+   "yildiz": 240,
+   "yildiz_hizi": 15.0,
+   "dil": "Python",
+   "adres": "https://github.com/developeryj1992/ai-trend-studio",
+   "konular": [
+    "ai",
+    "bilibili",
+    "douyin",
+    "knowledge-management",
+    "local-first",
+    "summarization",
+    "trends"
+   ],
+   "yas_gun": 16,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Rocky-true/vmware-to-kubernetes",
+   "aciklama": "Kubernetes 自动化运维与迁移工具：阿里云 3 主 HA、Compose→K8s、Terraform、Kubekey、部署验证与故障排查。Kubernetes automation, migration and ops toolkit.",
+   "yildiz": 115,
+   "yildiz_hizi": 14.4,
+   "dil": "Python",
+   "adres": "https://github.com/Rocky-true/vmware-to-kubernetes",
+   "konular": [
+    "aliyun",
+    "automation",
+    "cloud-native",
+    "devops",
+    "devops-tools",
+    "docker-compose",
+    "infrastructure-as-code",
+    "k8s",
+    "kubekey",
+    "kubernetes",
+    "migration",
+    "operations",
+    "ops",
+    "sre",
+    "terraform",
+    "vmware",
+    "vmware-to-kubernetes"
+   ],
+   "yas_gun": 8,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "huaxialucaicaizi/ai-startup-skills",
+   "aciklama": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+   "yildiz": 366,
+   "yildiz_hizi": 91.5,
+   "dil": "Python",
+   "adres": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+   "konular": [
+    "agent-skills",
+    "ai",
+    "business-plan",
+    "claude-code",
+    "codex",
+    "cursor",
+    "entrepreneurship",
+    "growth",
+    "mvp-validation",
+    "one-person-company",
+    "openai",
+    "pricing",
+    "startup"
+   ],
+   "yas_gun": 4,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "hevnsnt/CVEngine",
+   "aciklama": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+   "yildiz": 399,
+   "yildiz_hizi": 199.5,
+   "dil": "Python",
+   "adres": "https://github.com/hevnsnt/CVEngine",
+   "konular": [
+    "ai",
+    "attack-surface-management",
+    "bbot",
+    "cybersecurity",
+    "mcp",
+    "nmap",
+    "nuclei",
+    "vulnerability-scanner"
+   ],
+   "yas_gun": 2,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-10-27"
+  },
   {
    "kaynak": "github",
    "ad": "mw00/project-maya",
@@ -3216,6 +3426,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-10-27",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-23",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
