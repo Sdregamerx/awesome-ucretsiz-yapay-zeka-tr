@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-27-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-30-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-27 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-27 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-27 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-27 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-27 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-27 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-27 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-27 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-30 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-30 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-30 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-30 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-30 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-30 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-30 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-30 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [django-looseleaf](https://pypi.org/project/django-looseleaf/) | 2.4.0 | LooseLeaf UI for Django: the CUBE CSS design system's stylesheet and scripts, template tag | 70 | 2026-10-30 |
+| [maibot-dashboard](https://pypi.org/project/maibot-dashboard/) | 1.9.12 | MaiBot WebUI static assets | 70 | 2026-10-30 |
+| [biztory-tableau-knowledge-mcp](https://pypi.org/project/biztory-tableau-knowledge-mcp/) | 0.2.0 | Search, explore and enrich the Tableau Knowledge graph from any MCP client, and port it to | 75 | 2026-10-30 |
+| [facebook-gql-scraper](https://pypi.org/project/facebook-gql-scraper/) | 0.8.1 | Scrape Facebook GraphQL data without an API key — profiles, posts, comments, reactions, gr | 75 | 2026-10-30 |
+| [evalkit-py](https://pypi.org/project/evalkit-py/) | 0.3.0 | Self-hosted system for improving AI agents: server, CLI, web UI, Python SDK and agent skil | 75 | 2026-10-30 |
 | [cairn-operator-eval-lm](https://pypi.org/project/cairn-operator-eval-lm/) | 0.2.0 | eval/lm-eval: EleutherAI lm-evaluation-harness against a served candidate, and the eval.lm | 75 | 2026-10-27 |
 | [mite](https://pypi.org/project/mite/) | 2.12.0 | A Python Performance Testing Framework | 85 | 2026-10-27 |
 | [licentivo-sdk](https://pypi.org/project/licentivo-sdk/) | 0.11.5 | Licentivo software licensing client | 90 | 2026-10-27 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [pyrig](https://pypi.org/project/pyrig/) | 18.98.0 | A Python project setup and management tool built on infrastructure as code and convention  | 90 | 2026-10-06 |
 | [matrixai-core](https://pypi.org/project/matrixai-core/) | 1.14.0 | Auditable AI model language, runtime and deployment framework | 95 | 2026-10-06 |
 | [odoo-addon-base-rest](https://pypi.org/project/odoo-addon-base-rest/) | 18.0.1.2.0 | Develop your own high level REST APIs for Odoo thanks to this addon. | 95 | 2026-10-06 |
-| [aspose-total-net](https://pypi.org/project/aspose-total-net/) | 26.8.0 | Aspose.Total for Python via .NET is a document/visio/pdf/presentation/imaging/3D & CAD met | 75 | 2026-10-02 |
-| [aiorentman](https://pypi.org/project/aiorentman/) | 0.2.1 | Unofficial asynchronous Python library to interact with the Rentman API | 75 | 2026-10-02 |
-| [aiofarmad](https://pypi.org/project/aiofarmad/) | 0.2.0 | Unofficial asynchronous Python library to interact with the Mijn Farmad Apotheek API | 75 | 2026-10-02 |
-| [embodify-mcp](https://pypi.org/project/embodify-mcp/) | 0.1.0a2 | Embodify MCP server: robot observation and control tools for the agent you already use | 80 | 2026-10-02 |
-| [bambooai](https://pypi.org/project/bambooai/) | 2.0.1 | An LLM-driven data analyst that works in a persistent Python kernel, one cell at a time, a | 95 | 2026-10-02 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) | Build autonomous AI agents that interact with blockchains — in minutes, not mont | 141 | 8.8 | 2026-10-30 |
+| [Syenzzz/mcd-coupon-strategist](https://github.com/Syenzzz/mcd-coupon-strategist) | 麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。 | 994 | 52.3 | 2026-10-30 |
+| [hanzohanzhe/Grandet](https://github.com/hanzohanzhe/Grandet) | Find the cheapest API for any model and connect it from your AI agent: Grandet S | 1011 | 40.4 | 2026-10-30 |
+| [AienTech/dossier](https://github.com/AienTech/dossier) | A self-hosted job search app that writes tailored resumes and cover letters from | 3267 | 125.7 | 2026-10-30 |
+| [RabbittuX/purrge](https://github.com/RabbittuX/purrge) | 🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理 | 109 | 12.1 | 2026-10-30 |
 | [AbuZar-Ansarii/Ultron](https://github.com/AbuZar-Ansarii/Ultron) | Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace or | 130 | 16.2 | 2026-10-27 |
 | [developeryj1992/ai-trend-studio](https://github.com/developeryj1992/ai-trend-studio) | Local-first AI trend radar and live-session distillation | 240 | 15.0 | 2026-10-27 |
 | [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) | Kubernetes 自动化运维与迁移工具：阿里云 3 主 HA、Compose→K8s、Terraform、Kubekey、部署验证与故障排查。Kuberne | 115 | 14.4 | 2026-10-27 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全 | 1885 | 171.4 | 2026-10-06 |
 | [yakuikai/tokentab](https://github.com/yakuikai/tokentab) | Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI s | 176 | 12.6 | 2026-10-06 |
 | [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any un | 341 | 24.4 | 2026-10-06 |
-| [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) | An AI second brain that maintains itself. Full guide, starter vault, agent skill | 862 | 35.9 | 2026-10-02 |
-| [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) | 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、 | 1058 | 52.9 | 2026-10-02 |
-| [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | An auto-evolution framework that optimizes anything — your 7×24 team of algorith | 899 | 52.9 | 2026-10-02 |
-| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese | 1102 | 1102.0 | 2026-10-02 |
-| [suvamneog/jobradar](https://github.com/suvamneog/jobradar) | Watches company job boards, scores openings against your resume, and emails you  | 147 | 21.0 | 2026-10-02 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-10-30** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-27** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-23** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-20** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -142,7 +143,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-09-29** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-25** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-22** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-09-18** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
 
