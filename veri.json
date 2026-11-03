@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-10-30",
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -83,13 +83,88 @@
    "adres": "https://coingecko.com",
    "test": "https://api.coingecko.com/api/v3/ping",
    "kart": "hayır",
-   "calisiyor": true,
-   "http": 200,
-   "son_test": "2026-10-30",
+   "calisiyor": false,
+   "http": 0,
+   "son_test": "2026-11-03",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "copernicus-ems",
+   "aciklama": "Client for Copernicus EMS Rapid Mapping: activations, observation masks, observed flood extents",
+   "surum": "0.2.0",
+   "ozet": "Client for Copernicus EMS Rapid Mapping: activations, observation masks, observed flood extents",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/agent-engineering-studio/copernicus-ems/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/copernicus-ems/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "dirigent-contrib",
+   "aciklama": "Block packs for dirigent that reach outside systems: Chap and the open climate service.",
+   "surum": "0.32.0",
+   "ozet": "Block packs for dirigent that reach outside systems: Chap and the open climate service.",
+   "surum_sayisi": 5,
+   "depo": "https://github.com/winterop-com/dirigent-contrib",
+   "lisans": "",
+   "adres": "https://pypi.org/project/dirigent-contrib/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "sma-autoui",
+   "aciklama": "Smart Mobile Automation UI Framework",
+   "surum": "1.0.4",
+   "ozet": "Smart Mobile Automation UI Framework",
+   "surum_sayisi": 94,
+   "depo": "https://github.com/Fun-Fox",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/sma-autoui/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "tdd-cli",
+   "aciklama": "Ledger-backed TDD process controller for autonomous coding agents",
+   "surum": "0.18.0",
+   "ozet": "Ledger-backed TDD process controller for autonomous coding agents",
+   "surum_sayisi": 24,
+   "depo": "https://github.com/geuben/tdd-cli/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/tdd-cli/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "tracktales",
+   "aciklama": "TrackTales: Parse, analyze, and visualize your Apple Health workout data with an interactive NiceGUI interface.",
+   "surum": "2026.11.1",
+   "ozet": "TrackTales: Parse, analyze, and visualize your Apple Health workout data with an interactive NiceGUI interface.",
+   "surum_sayisi": 7,
+   "depo": "https://github.com/NicolasReyrolle/tracktales",
+   "lisans": "GPL-3.0-or-later",
+   "adres": "https://pypi.org/project/tracktales/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
   {
    "kaynak": "pypi",
    "ad": "django-looseleaf",
@@ -1367,6 +1442,150 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "wangzan101/Mika",
+   "aciklama": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+   "yildiz": 5802,
+   "yildiz_hizi": 1450.5,
+   "dil": "Kotlin",
+   "adres": "https://github.com/wangzan101/Mika",
+   "konular": [
+    "accessibility",
+    "ai-agent",
+    "android",
+    "automation",
+    "jetpack-compose",
+    "kotlin",
+    "llm",
+    "mobile-agent"
+   ],
+   "yas_gun": 4,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "github",
+   "ad": "microsoft/TokenEconomizer",
+   "aciklama": "Experience-Driven Black-Box Cost Control for Coding Agents",
+   "yildiz": 4582,
+   "yildiz_hizi": 218.2,
+   "dil": "Python",
+   "adres": "https://github.com/microsoft/TokenEconomizer",
+   "konular": [
+    "agentic-ai",
+    "agentic-coding",
+    "ai-coding",
+    "ai-coding-assistant",
+    "anthropic",
+    "artificial-intelligence",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "coding-agents",
+    "cost-optimization",
+    "cost-reduction",
+    "developer-tools",
+    "github-copilot",
+    "llm",
+    "open-source",
+    "openai",
+    "productivity",
+    "token-optimization"
+   ],
+   "yas_gun": 21,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "github",
+   "ad": "outcrawlai/scout",
+   "aciklama": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+   "yildiz": 949,
+   "yildiz_hizi": 45.2,
+   "dil": "TypeScript",
+   "adres": "https://github.com/outcrawlai/scout",
+   "konular": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "cdp",
+    "llm",
+    "typescript",
+    "web-automation"
+   ],
+   "yas_gun": 21,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "github",
+   "ad": "modelflare-ai/AnyModelBot",
+   "aciklama": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+   "yildiz": 2019,
+   "yildiz_hizi": 288.4,
+   "dil": "TypeScript",
+   "adres": "https://github.com/modelflare-ai/AnyModelBot",
+   "konular": [
+    "ai-agent",
+    "ai-assistant",
+    "chatbot",
+    "claude",
+    "computer-use",
+    "deepseek",
+    "desktop-app",
+    "dsh",
+    "electron",
+    "feishu",
+    "gemini",
+    "gpt",
+    "grok",
+    "llm",
+    "local-first",
+    "modelflare",
+    "multi-model",
+    "openai-compatible",
+    "personal-ai-agent",
+    "wechat"
+   ],
+   "yas_gun": 7,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
+  {
+   "kaynak": "github",
+   "ad": "gh9ko8y/graphmemory",
+   "aciklama": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
+   "yildiz": 158,
+   "yildiz_hizi": 52.7,
+   "dil": "Python",
+   "adres": "https://github.com/gh9ko8y/graphmemory",
+   "konular": [
+    "agent-memory",
+    "ai",
+    "bitemporal",
+    "graphiti",
+    "knowledge-graph",
+    "llm",
+    "memory",
+    "neo4j",
+    "postgresql",
+    "python"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-03"
+  },
   {
    "kaynak": "github",
    "ad": "teraus111/web3-agent-kit-solana-trading",
@@ -3637,6 +3856,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-11-03",
+   "ozet": "5 kütüphane, 5 araç eklendi; 7/8 API çalışıyor"
+  },
   {
    "tarih": "2026-10-30",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
