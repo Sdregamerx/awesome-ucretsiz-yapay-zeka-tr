@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-10-30-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-11-03-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-7%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-10-30 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-10-30 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-10-30 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-10-30 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-10-30 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-10-30 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-10-30 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-10-30 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-11-03 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-11-03 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-11-03 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-11-03 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-11-03 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-11-03 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-11-03 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ⛔ yanıt vermedi (0) | 2026-11-03 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [copernicus-ems](https://pypi.org/project/copernicus-ems/) | 0.2.0 | Client for Copernicus EMS Rapid Mapping: activations, observation masks, observed flood ex | 75 | 2026-11-03 |
+| [dirigent-contrib](https://pypi.org/project/dirigent-contrib/) | 0.32.0 | Block packs for dirigent that reach outside systems: Chap and the open climate service. | 90 | 2026-11-03 |
+| [sma-autoui](https://pypi.org/project/sma-autoui/) | 1.0.4 | Smart Mobile Automation UI Framework | 90 | 2026-11-03 |
+| [tdd-cli](https://pypi.org/project/tdd-cli/) | 0.18.0 | Ledger-backed TDD process controller for autonomous coding agents | 90 | 2026-11-03 |
+| [tracktales](https://pypi.org/project/tracktales/) | 2026.11.1 | TrackTales: Parse, analyze, and visualize your Apple Health workout data with an interacti | 95 | 2026-11-03 |
 | [django-looseleaf](https://pypi.org/project/django-looseleaf/) | 2.4.0 | LooseLeaf UI for Django: the CUBE CSS design system's stylesheet and scripts, template tag | 70 | 2026-10-30 |
 | [maibot-dashboard](https://pypi.org/project/maibot-dashboard/) | 1.9.12 | MaiBot WebUI static assets | 70 | 2026-10-30 |
 | [biztory-tableau-knowledge-mcp](https://pypi.org/project/biztory-tableau-knowledge-mcp/) | 0.2.0 | Search, explore and enrich the Tableau Knowledge graph from any MCP client, and port it to | 75 | 2026-10-30 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [APIPod](https://pypi.org/project/APIPod/) | 1.0.29 | Create web-APIs for long-running tasks | 90 | 2026-10-09 |
 | [fastsdk](https://pypi.org/project/fastsdk/) | 0.4.21 | Turn any AI/web service (OpenAPI, Replicate, RunPod, APIPod) into a native-feeling Python  | 95 | 2026-10-09 |
 | [apipod-registry](https://pypi.org/project/apipod-registry/) | 0.1.9 | Parse, hold and persist AIServices: the registry for APIPod clients. | 95 | 2026-10-09 |
-| [cadpilot](https://pypi.org/project/cadpilot/) | 0.7.6 | CADPilot-MCP: Automatic CAD — MCP server that lets AI clients drive FreeCAD to create, edi | 90 | 2026-10-06 |
-| [pten](https://pypi.org/project/pten/) | 0.4.16 | A tool to use WeWork(企业微信) and feishu(飞书) API quickly and easily | 90 | 2026-10-06 |
-| [pyrig](https://pypi.org/project/pyrig/) | 18.98.0 | A Python project setup and management tool built on infrastructure as code and convention  | 90 | 2026-10-06 |
-| [matrixai-core](https://pypi.org/project/matrixai-core/) | 1.14.0 | Auditable AI model language, runtime and deployment framework | 95 | 2026-10-06 |
-| [odoo-addon-base-rest](https://pypi.org/project/odoo-addon-base-rest/) | 18.0.1.2.0 | Develop your own high level REST APIs for Odoo thanks to this addon. | 95 | 2026-10-06 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things d | 5802 | 1450.5 | 2026-11-03 |
+| [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | Experience-Driven Black-Box Cost Control for Coding Agents | 4582 | 218.2 | 2026-11-03 |
+| [outcrawlai/scout](https://github.com/outcrawlai/scout) | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O | 949 | 45.2 | 2026-11-03 |
+| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. | 2019 | 288.4 | 2026-11-03 |
+| [gh9ko8y/graphmemory](https://github.com/gh9ko8y/graphmemory) | Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, | 158 | 52.7 | 2026-11-03 |
 | [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) | Build autonomous AI agents that interact with blockchains — in minutes, not mont | 141 | 8.8 | 2026-10-30 |
 | [Syenzzz/mcd-coupon-strategist](https://github.com/Syenzzz/mcd-coupon-strategist) | 麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。 | 994 | 52.3 | 2026-10-30 |
 | [hanzohanzhe/Grandet](https://github.com/hanzohanzhe/Grandet) | Find the cheapest API for any model and connect it from your AI agent: Grandet S | 1011 | 40.4 | 2026-10-30 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 148 | 148.0 | 2026-10-09 |
 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net wo | 707 | 353.5 | 2026-10-09 |
 | [yi1108/printfilm](https://github.com/yi1108/printfilm) | PRINTFILM: AI short-video marketing and AI short-drama creation platform | 5053 | 174.2 | 2026-10-09 |
-| [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Ch | 814 | 162.8 | 2026-10-06 |
-| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Answer me with HTML — an agent skill that answers hard questions with a one-page | 1583 | 395.8 | 2026-10-06 |
-| [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全 | 1885 | 171.4 | 2026-10-06 |
-| [yakuikai/tokentab](https://github.com/yakuikai/tokentab) | Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI s | 176 | 12.6 | 2026-10-06 |
-| [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any un | 341 | 24.4 | 2026-10-06 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-11-03** — 5 kütüphane, 5 araç eklendi; 7/8 API çalışıyor
 - **2026-10-30** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-27** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-23** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -142,7 +143,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-10-02** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-29** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-25** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-09-22** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
 
