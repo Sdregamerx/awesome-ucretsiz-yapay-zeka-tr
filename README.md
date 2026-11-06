@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-11-03-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-7%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-11-06-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-11-03 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-11-03 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-11-03 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-11-03 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-11-03 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-11-03 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-11-03 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ⛔ yanıt vermedi (0) | 2026-11-03 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-11-06 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-11-06 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-11-06 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-11-06 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-11-06 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-11-06 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-11-06 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-11-06 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [ibm-watsonx-data-intelligence-mcp-server](https://pypi.org/project/ibm-watsonx-data-intelligence-mcp-server/) | 1.7.0 | MCP Server implementation for IBM Data Intelligence | 85 | 2026-11-06 |
+| [dex-python-sdk](https://pypi.org/project/dex-python-sdk/) | 1.35.0 | Python SDK for the Dex workflow engine | 85 | 2026-11-06 |
+| [pyedautils](https://pypi.org/project/pyedautils/) | 0.0.33 | Python Energy Data Analysis Utilities | 90 | 2026-11-06 |
+| [zernio-sdk](https://pypi.org/project/zernio-sdk/) | 1.4.1581 | The official Python library for the Zernio API | 90 | 2026-11-06 |
+| [late-sdk](https://pypi.org/project/late-sdk/) | 1.4.1581 | The official Python library for the Zernio API | 90 | 2026-11-06 |
 | [copernicus-ems](https://pypi.org/project/copernicus-ems/) | 0.2.0 | Client for Copernicus EMS Rapid Mapping: activations, observation masks, observed flood ex | 75 | 2026-11-03 |
 | [dirigent-contrib](https://pypi.org/project/dirigent-contrib/) | 0.32.0 | Block packs for dirigent that reach outside systems: Chap and the open climate service. | 90 | 2026-11-03 |
 | [sma-autoui](https://pypi.org/project/sma-autoui/) | 1.0.4 | Smart Mobile Automation UI Framework | 90 | 2026-11-03 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [prizm-adls-scanner](https://pypi.org/project/prizm-adls-scanner/) | 0.3.8 | Prizm Databricks Exception, Lookup, Comparison, and Materialize job runtime | 95 | 2026-10-13 |
 | [stabilize](https://pypi.org/project/stabilize/) | 0.33.1 | Stabilize Workflow Orchestration - Agentic Parallel Workflows | 95 | 2026-10-13 |
 | [xstate-statemachine](https://pypi.org/project/xstate-statemachine/) | 0.11.0 | A robust Python library for parsing and running XState JSON state machines. | 95 | 2026-10-13 |
-| [teddy-cli](https://pypi.org/project/teddy-cli/) | 0.1.16 | A local-first, file-based AI coding workflow that applies the UNIX philosophy to AI collab | 80 | 2026-10-09 |
-| [bouwmeester-lockbox-api](https://pypi.org/project/bouwmeester-lockbox-api/) | 0.1.4 | Python client for the Bouwmeester Lab Lockbox REST API | 85 | 2026-10-09 |
-| [APIPod](https://pypi.org/project/APIPod/) | 1.0.29 | Create web-APIs for long-running tasks | 90 | 2026-10-09 |
-| [fastsdk](https://pypi.org/project/fastsdk/) | 0.4.21 | Turn any AI/web service (OpenAPI, Replicate, RunPod, APIPod) into a native-feeling Python  | 95 | 2026-10-09 |
-| [apipod-registry](https://pypi.org/project/apipod-registry/) | 0.1.9 | Parse, hold and persist AIServices: the registry for APIPod clients. | 95 | 2026-10-09 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [sahenjp/RustXNG](https://github.com/sahenjp/RustXNG) | Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rus | 861 | 45.3 | 2026-11-06 |
+| [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例 | 990 | 43.0 | 2026-11-06 |
+| [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Autonomous pentest legion — AI commander + worker swarm + layered fact-intent gr | 1411 | 235.2 | 2026-11-06 |
+| [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Automated YouTube video uploader with batch processing, thumbnail support, and s | 426 | 426.0 | 2026-11-06 |
+| [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude,  | 427 | 427.0 | 2026-11-06 |
 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things d | 5802 | 1450.5 | 2026-11-03 |
 | [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | Experience-Driven Black-Box Cost Control for Coding Agents | 4582 | 218.2 | 2026-11-03 |
 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O | 949 | 45.2 | 2026-11-03 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) | 1408 | 156.4 | 2026-10-13 |
 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands,  | 1114 | 1114.0 | 2026-10-13 |
 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products and repos, caught on | 758 | 758.0 | 2026-10-13 |
-| [z91772524-ai/pojia-next](https://github.com/z91772524-ai/pojia-next) | 一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、 | 198 | 9.4 | 2026-10-09 |
-| [Sidiora-Labs/centra-gideon-agent](https://github.com/Sidiora-Labs/centra-gideon-agent) | The companion AI agent that learns, adapts and gets the work done no matter the  | 217 | 9.9 | 2026-10-09 |
-| [nachisama/ai-data-extractor](https://github.com/nachisama/ai-data-extractor) | Free open-source extractor for AI coding assistant chat histories. Supports Clau | 148 | 148.0 | 2026-10-09 |
-| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net wo | 707 | 353.5 | 2026-10-09 |
-| [yi1108/printfilm](https://github.com/yi1108/printfilm) | PRINTFILM: AI short-video marketing and AI short-drama creation platform | 5053 | 174.2 | 2026-10-09 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-11-06** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-11-03** — 5 kütüphane, 5 araç eklendi; 7/8 API çalışıyor
 - **2026-10-30** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-27** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -142,7 +143,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-10-06** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-02** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-09-29** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-09-25** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
 
