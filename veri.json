@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-03",
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -83,13 +83,88 @@
    "adres": "https://coingecko.com",
    "test": "https://api.coingecko.com/api/v3/ping",
    "kart": "hayır",
-   "calisiyor": false,
-   "http": 0,
-   "son_test": "2026-11-03",
+   "calisiyor": true,
+   "http": 200,
+   "son_test": "2026-11-06",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "ibm-watsonx-data-intelligence-mcp-server",
+   "aciklama": "MCP Server implementation for IBM Data Intelligence",
+   "surum": "1.7.0",
+   "ozet": "MCP Server implementation for IBM Data Intelligence",
+   "surum_sayisi": 21,
+   "depo": "https://github.com/ibm/data-intelligence-mcp-server/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/ibm-watsonx-data-intelligence-mcp-server/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "dex-python-sdk",
+   "aciklama": "Python SDK for the Dex workflow engine",
+   "surum": "1.35.0",
+   "ozet": "Python SDK for the Dex workflow engine",
+   "surum_sayisi": 61,
+   "depo": "https://github.com/superdurable/dex/tree/main/sdk-python",
+   "lisans": "",
+   "adres": "https://pypi.org/project/dex-python-sdk/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "pyedautils",
+   "aciklama": "Python Energy Data Analysis Utilities",
+   "surum": "0.0.33",
+   "ozet": "Python Energy Data Analysis Utilities",
+   "surum_sayisi": 30,
+   "depo": "https://github.com/retomarek/pyedautils/",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/pyedautils/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "zernio-sdk",
+   "aciklama": "The official Python library for the Zernio API",
+   "surum": "1.4.1581",
+   "ozet": "The official Python library for the Zernio API",
+   "surum_sayisi": 1703,
+   "depo": "https://github.com/zernio-dev/zernio-python/issues",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/zernio-sdk/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "late-sdk",
+   "aciklama": "The official Python library for the Zernio API",
+   "surum": "1.4.1581",
+   "ozet": "The official Python library for the Zernio API",
+   "surum_sayisi": 1797,
+   "depo": "https://github.com/zernio-dev/zernio-python/issues",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/late-sdk/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
   {
    "kaynak": "pypi",
    "ad": "copernicus-ems",
@@ -1442,6 +1517,136 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "sahenjp/RustXNG",
+   "aciklama": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
+   "yildiz": 861,
+   "yildiz_hizi": 45.3,
+   "dil": "Rust",
+   "adres": "https://github.com/sahenjp/RustXNG",
+   "konular": [
+    "agpl",
+    "ai-agents",
+    "grounding",
+    "llm",
+    "mcp",
+    "metasearch",
+    "privacy",
+    "rag",
+    "rust",
+    "search-engine",
+    "searxng",
+    "self-hosted"
+   ],
+   "yas_gun": 19,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+   "aciklama": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+   "yildiz": 990,
+   "yildiz_hizi": 43.0,
+   "dil": "Python",
+   "adres": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+   "konular": [
+    "ai-agents",
+    "cross-border-ecommerce",
+    "ecommerce",
+    "llm",
+    "mercado-livre",
+    "prompt-engineering",
+    "shopee",
+    "sop",
+    "workflow-automation"
+   ],
+   "yas_gun": 23,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "N1nEmAn/sapper-v2",
+   "aciklama": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+   "yildiz": 1411,
+   "yildiz_hizi": 235.2,
+   "dil": "Python",
+   "adres": "https://github.com/N1nEmAn/sapper-v2",
+   "konular": [
+    "ai-agents",
+    "autonomous-agents",
+    "claude-code",
+    "ctf",
+    "llm",
+    "multi-agent",
+    "pentest"
+   ],
+   "yas_gun": 6,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "dragonwolfshovel/youtube-uploader",
+   "aciklama": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+   "yildiz": 426,
+   "yildiz_hizi": 426.0,
+   "dil": "Python",
+   "adres": "https://github.com/dragonwolfshovel/youtube-uploader",
+   "konular": [
+    "automation",
+    "batch-processing",
+    "cli-tool",
+    "content-creator",
+    "metadata-manager",
+    "oauth2",
+    "open-source",
+    "video-upload",
+    "youtube-api",
+    "youtube-uploader"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
+  {
+   "kaynak": "github",
+   "ad": "HerdBuilderEstimate/roblox-studio-mcp",
+   "aciklama": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+   "yildiz": 427,
+   "yildiz_hizi": 427.0,
+   "dil": "Python",
+   "adres": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+   "konular": [
+    "ai-tools",
+    "automation",
+    "claude",
+    "cursor",
+    "developer-tools",
+    "game-development",
+    "mcp",
+    "model-context-protocol",
+    "open-source",
+    "roblox",
+    "roblox-studio",
+    "typescript"
+   ],
+   "yas_gun": 1,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-06"
+  },
   {
    "kaynak": "github",
    "ad": "wangzan101/Mika",
@@ -3856,6 +4061,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-11-06",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-11-03",
    "ozet": "5 kütüphane, 5 araç eklendi; 7/8 API çalışıyor"
