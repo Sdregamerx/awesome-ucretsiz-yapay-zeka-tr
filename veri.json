@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-06",
+   "son_test": "2026-11-10",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "interloper-api",
+   "aciklama": "Interloper FastAPI routes",
+   "surum": "0.129.0",
+   "ozet": "Interloper FastAPI routes",
+   "surum_sayisi": 155,
+   "depo": "",
+   "lisans": "",
+   "adres": "https://pypi.org/project/interloper-api/",
+   "puan": 70,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "windmill-api",
+   "aciklama": "A client library for accessing Windmill API",
+   "surum": "1.865.0",
+   "ozet": "A client library for accessing Windmill API",
+   "surum_sayisi": 1540,
+   "depo": "",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/windmill-api/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "idtrackerai-CYSM",
+   "aciklama": "A fork of idtracker.ai that accepts animal outlines from an external instance-segmentation model -- a fine-tuned Detectron2 Mask R-CNN, or SAM 3 prompted with a word -- in place of intensity thresholding. Not affiliated with or endorsed by the de Polavieja Lab.",
+   "surum": "6.0.15a0.post2",
+   "ozet": "A fork of idtracker.ai that accepts animal outlines from an external instance-segmentation model -- a fine-tuned Detectron2 Mask R-CNN, or SAM 3 prompted with a word -- in place of intensity thresholding. Not affiliated with or endorsed by the de Polavieja Lab.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/mbel-tech/idtrackerai-CYSM/issues",
+   "lisans": "",
+   "adres": "https://pypi.org/project/idtrackerai-CYSM/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "conclave-team",
+   "aciklama": "A managed agent team: one Dean orchestrates many Cardinals on any model, Devils argue back, and you're the Pope.",
+   "surum": "0.1.1",
+   "ozet": "A managed agent team: one Dean orchestrates many Cardinals on any model, Devils argue back, and you're the Pope.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/tech-cosmos/conclave",
+   "lisans": "",
+   "adres": "https://pypi.org/project/conclave-team/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "wmill",
+   "aciklama": "A client library for accessing Windmill server wrapping the Windmill client API",
+   "surum": "1.865.0",
+   "ozet": "A client library for accessing Windmill server wrapping the Windmill client API",
+   "surum_sayisi": 1544,
+   "depo": "",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/wmill/",
+   "puan": 80,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-11-10"
+  },
   {
    "kaynak": "pypi",
    "ad": "ibm-watsonx-data-intelligence-mcp-server",
@@ -1517,6 +1592,151 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "AbhramJohn/instagram-engagement-bot",
+   "aciklama": "Community-driven Instagram Liker Bot with advanced automation for desktop",
+   "yildiz": 482,
+   "yildiz_hizi": 160.7,
+   "dil": "HTML",
+   "adres": "https://github.com/AbhramJohn/instagram-engagement-bot",
+   "konular": [
+    "autolike",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "insta-bot",
+    "instagram-commenter",
+    "instagram-follow",
+    "instagram-followers-free",
+    "instagram-get-followers",
+    "instagram-like-app",
+    "instagram-liker",
+    "instagram-liker-2026",
+    "instagram-likes",
+    "open-source",
+    "python",
+    "scripts",
+    "software-engineering",
+    "system",
+    "utility",
+    "windows-app"
+   ],
+   "yas_gun": 3,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "github",
+   "ad": "JosssphZhou/poki",
+   "aciklama": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+   "yildiz": 847,
+   "yildiz_hizi": 211.8,
+   "dil": "Swift",
+   "adres": "https://github.com/JosssphZhou/poki",
+   "konular": [
+    "ai-agents",
+    "automation",
+    "ios",
+    "iphone",
+    "mcp",
+    "model-context-protocol"
+   ],
+   "yas_gun": 4,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "github",
+   "ad": "cutetailbud/ff-ruyijs",
+   "aciklama": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+   "yildiz": 1201,
+   "yildiz_hizi": 100.1,
+   "dil": "C++",
+   "adres": "https://github.com/cutetailbud/ff-ruyijs",
+   "konular": [
+    "anti-bot",
+    "automation",
+    "firefox",
+    "headless-browser",
+    "javascript",
+    "python",
+    "spidermonkey",
+    "web-scraping"
+   ],
+   "yas_gun": 12,
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "github",
+   "ad": "KKKKhazix/agent-autoloop",
+   "aciklama": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+   "yildiz": 4375,
+   "yildiz_hizi": 625.0,
+   "dil": "TypeScript",
+   "adres": "https://github.com/KKKKhazix/agent-autoloop",
+   "konular": [
+    "ai-agents",
+    "automation",
+    "claude-code",
+    "cli",
+    "codex",
+    "event-driven",
+    "mcp",
+    "nodejs",
+    "self-hosted",
+    "typescript",
+    "workflow"
+   ],
+   "yas_gun": 7,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
+  {
+   "kaynak": "github",
+   "ad": "TIGER-AI-Lab/WebsiteBench",
+   "aciklama": "Can AI agents rebuild websites through browser exploration?",
+   "yildiz": 181,
+   "yildiz_hizi": 36.2,
+   "dil": "Python",
+   "adres": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+   "konular": [
+    "agent-evaluation",
+    "ai",
+    "ai-agents",
+    "benchmark",
+    "benchmarking",
+    "browser-automation",
+    "browser-use",
+    "full-stack",
+    "harbor",
+    "harbor-framework",
+    "llm",
+    "llm-benchmark",
+    "llm-benchmarking",
+    "llm-benchmarks",
+    "reverse-engineering",
+    "swe-bench",
+    "visual-evaluation",
+    "web-agents",
+    "web-development",
+    "website-reconstruction"
+   ],
+   "yas_gun": 5,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-10"
+  },
   {
    "kaynak": "github",
    "ad": "sahenjp/RustXNG",
@@ -4061,6 +4281,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-11-10",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-11-06",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
