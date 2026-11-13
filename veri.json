@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-10",
+   "son_test": "2026-11-13",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "dataiku-scoring",
+   "aciklama": "Dataiku ML Scoring Python library",
+   "surum": "15.2.1",
+   "ozet": "Dataiku ML Scoring Python library",
+   "surum_sayisi": 84,
+   "depo": "",
+   "lisans": "Apache Software License",
+   "adres": "https://pypi.org/project/dataiku-scoring/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "openrouter",
+   "aciklama": "Official Python Client SDK for OpenRouter.",
+   "surum": "1.3.175",
+   "ozet": "Official Python Client SDK for OpenRouter.",
+   "surum_sayisi": 469,
+   "depo": "https://github.com/OpenRouterTeam/python-sdk.git",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/openrouter/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "scrapely-python",
+   "aciklama": "Scrapely Python SDK - A toolkit for building Actors on the Scrapely platform",
+   "surum": "0.1.48",
+   "ozet": "Scrapely Python SDK - A toolkit for building Actors on the Scrapely platform",
+   "surum_sayisi": 37,
+   "depo": "https://github.com/scrapely-app/scrapely-python/blob/main/CHANGELOG.md",
+   "lisans": "",
+   "adres": "https://pypi.org/project/scrapely-python/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "llm-council-core",
+   "aciklama": "Multi-LLM council system with peer review and synthesis",
+   "surum": "0.53.1",
+   "ozet": "Multi-LLM council system with peer review and synthesis",
+   "surum_sayisi": 103,
+   "depo": "https://github.com/amiable-dev/llm-council",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/llm-council-core/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "setuptools-git-versioning",
+   "aciklama": "Use git repo data for building a version number according to PEP-440",
+   "surum": "3.2.2",
+   "ozet": "Use git repo data for building a version number according to PEP-440",
+   "surum_sayisi": 64,
+   "depo": "https://github.com/dolfinus/setuptools-git-versioning/actions",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/setuptools-git-versioning/",
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
   {
    "kaynak": "pypi",
    "ad": "interloper-api",
@@ -1592,6 +1667,137 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "SAOS-3624/dsh-see-now",
+   "aciklama": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+   "yildiz": 616,
+   "yildiz_hizi": 56.0,
+   "dil": "JavaScript",
+   "adres": "https://github.com/SAOS-3624/dsh-see-now",
+   "konular": [
+    "ai-agent",
+    "dsh",
+    "dsh-plugin",
+    "ffmpeg",
+    "llm",
+    "realtime",
+    "screen-capture",
+    "token-efficient",
+    "vision"
+   ],
+   "yas_gun": 11,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "8hjkkwikl8/ai-portfolio",
+   "aciklama": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+   "yildiz": 100,
+   "yildiz_hizi": 50.0,
+   "dil": "Python",
+   "adres": "https://github.com/8hjkkwikl8/ai-portfolio",
+   "konular": [
+    "ai",
+    "fastapi",
+    "llm",
+    "nl2sql",
+    "portfolio",
+    "prompt-engineering",
+    "rag",
+    "sqlite"
+   ],
+   "yas_gun": 2,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "agentes-chat/agentes-chat",
+   "aciklama": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+   "yildiz": 1255,
+   "yildiz_hizi": 313.8,
+   "dil": "TypeScript",
+   "adres": "https://github.com/agentes-chat/agentes-chat",
+   "konular": [
+    "agentic-ai",
+    "ai-agents",
+    "browser-automation",
+    "chat",
+    "claude",
+    "claude-code",
+    "codex",
+    "collaboration",
+    "computer-use",
+    "docker-compose",
+    "gemini",
+    "grok",
+    "human-in-the-loop",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "openai",
+    "self-hosted",
+    "slack-alternative",
+    "team-chat"
+   ],
+   "yas_gun": 4,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "RunanywhereAI/trnrt",
+   "aciklama": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+   "yildiz": 1574,
+   "yildiz_hizi": 121.1,
+   "dil": "Python",
+   "adres": "https://github.com/RunanywhereAI/trnrt",
+   "konular": [
+    "aws",
+    "glm",
+    "inference",
+    "llm",
+    "llm-serving",
+    "megakernels",
+    "neuron",
+    "nki",
+    "openai-api",
+    "trainium"
+   ],
+   "yas_gun": 13,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
+  {
+   "kaynak": "github",
+   "ad": "professorsolderin/project-lighthouse",
+   "aciklama": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+   "yildiz": 81,
+   "yildiz_hizi": 27.0,
+   "dil": "Python",
+   "adres": "https://github.com/professorsolderin/project-lighthouse",
+   "konular": [
+    "ai",
+    "history-of-science",
+    "manuscripts",
+    "mathematics"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-13"
+  },
   {
    "kaynak": "github",
    "ad": "AbhramJohn/instagram-engagement-bot",
@@ -4281,6 +4487,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-11-13",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-11-10",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
