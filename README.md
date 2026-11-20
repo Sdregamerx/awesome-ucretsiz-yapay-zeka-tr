@@ -1,6 +1,6 @@
 # Ücretsiz Yapay Zeka API'leri, Python Kütüphaneleri ve Otomasyon Araçları
 
-![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-11-17-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
+![son güncelleme](https://img.shields.io/badge/son%20g%C3%BCncelleme-2026-11-20-brightgreen) ![test edilen api](https://img.shields.io/badge/çal%C4%B1%C5%9Fan%20API-8%2F8-blue)
 
 Kredi kartı istemeyen yapay zeka servisleri, yeni çıkan Python kütüphaneleri ve açık kaynak otomasyon araçları. Türkçe.
 
@@ -20,14 +20,14 @@ Kredi kartı istemeden kullanabildiğin servisler. Durum sütunu her güncelleme
 
 | Servis | Ne veriyor | Kart ister mi | Durum | Son test |
 |---|---|---|---|---|
-| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-11-17 |
-| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-11-17 |
-| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-11-17 |
-| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-11-17 |
-| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-11-17 |
-| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-11-17 |
-| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-11-17 |
-| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-11-17 |
+| [Groq](https://api.groq.com) | LLM ve Whisper konuşma tanıma | hayır | ✅ çalışıyor | 2026-11-20 |
+| [Openverse](https://openverse.org) | telifsiz görsel arama | hayır | ✅ çalışıyor | 2026-11-20 |
+| [Pollinations](https://pollinations.ai) | metinden görsel üretme | hayır | ✅ çalışıyor | 2026-11-20 |
+| [PyPI JSON](https://pypi.org) | paket bilgisi | hayır | ✅ çalışıyor | 2026-11-20 |
+| [Wikimedia REST](https://wikimedia.org) | ansiklopedi ve görsel | hayır | ✅ çalışıyor | 2026-11-20 |
+| [Frankfurter](https://frankfurter.dev) | döviz kuru | hayır | ✅ çalışıyor | 2026-11-20 |
+| [Open-Meteo](https://open-meteo.com) | hava durumu | hayır | ✅ çalışıyor | 2026-11-20 |
+| [CoinGecko](https://coingecko.com) | kripto fiyat | hayır | ✅ çalışıyor | 2026-11-20 |
 
 ## Yeni Python kütüphaneleri
 
@@ -35,6 +35,11 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 
 | Paket | Sürüm | Ne işe yarar | Puan | Eklendi |
 |---|---|---|---|---|
+| [ragpick](https://pypi.org/project/ragpick/) | 0.5.0 | Choose, build, evaluate, and run the right RAG architecture — architecture as code. | 90 | 2026-11-20 |
+| [pyjuiz](https://pypi.org/project/pyjuiz/) | 0.3.0 | Python binding interface for JUIZ robot middleware components | 95 | 2026-11-20 |
+| [juiz-cli](https://pypi.org/project/juiz-cli/) | 0.3.0 | JUIZ robot middleware: the juiz command for Python users (no Rust toolchain needed) | 95 | 2026-11-20 |
+| [drawlib](https://pypi.org/project/drawlib/) | 0.3.15 | Pure-Python library for Illustration, Diagrams, Documentation, and Slides as Code (HTML/PD | 95 | 2026-11-20 |
+| [django-queryable-properties](https://pypi.org/project/django-queryable-properties/) | 1.14.0 | Write Django model properties that can be used in database queries. | 95 | 2026-11-20 |
 | [raja-mcp](https://pypi.org/project/raja-mcp/) | 0.1.1 | Unofficial read-only MCP server for Raja (raja.ir), the Iranian train ticket seller: stati | 75 | 2026-11-17 |
 | [iran-roads-mcp](https://pypi.org/project/iran-roads-mcp/) | 0.1.1 | Unofficial read-only MCP server for Iran road status (141.ir, Road Maintenance and Transpo | 75 | 2026-11-17 |
 | [kaizo-hf](https://pypi.org/project/kaizo-hf/) | 0.2.4 | Hugging Face plugin for kaizo | 85 | 2026-11-17 |
@@ -70,11 +75,6 @@ PyPI'da yeni yayınlanan, puanlamayı geçen paketler. Puan; sürüm sayısı, k
 | [licentivo-sdk](https://pypi.org/project/licentivo-sdk/) | 0.11.5 | Licentivo software licensing client | 90 | 2026-10-27 |
 | [apmw](https://pypi.org/project/apmw/) | 1.1.4 | Cross-platform wrapper for the apm CLI — places OpenCode plugins after install and update | 90 | 2026-10-27 |
 | [nexor-agora](https://pypi.org/project/nexor-agora/) | 0.21.2 | Shared LAN chat where humans and their Claude Code agents collaborate | 95 | 2026-10-27 |
-| [lx-annotate](https://pypi.org/project/lx-annotate/) | 1.6.0 | This webapp provides a frontend interface for pseudonymizing and annotating data and apply | 75 | 2026-10-23 |
-| [crowsnest](https://pypi.org/project/crowsnest/) | 0.0.98 | One session that watches your other Claude Code sessions: who is busy, who is waiting on y | 90 | 2026-10-23 |
-| [traigent](https://pypi.org/project/traigent/) | 0.30.0 | Enterprise-grade LLM optimization platform with advanced analytics and AI-powered insights | 90 | 2026-10-23 |
-| [attocode-code-intel](https://pypi.org/project/attocode-code-intel/) | 0.1.15 | Local code search and navigation for coding agents and people | 90 | 2026-10-23 |
-| [PyDTMC](https://pypi.org/project/PyDTMC/) | 10.1.0 | Python library for analyzing, simulating, and visualizing discrete-time Markov chains and  | 95 | 2026-10-23 |
 
 ## Açık kaynak otomasyon araçları
 
@@ -82,6 +82,11 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 
 | Depo | Ne işe yarar | Yıldız | Yıldız/gün | Eklendi |
 |---|---|---|---|---|
+| [osarhiemenaiyevbosa-cloud/ai-manus](https://github.com/osarhiemenaiyevbosa-cloud/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 11.7 | 2026-11-20 |
+| [Gigachad-byte/ai-manus](https://github.com/Gigachad-byte/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 11.7 | 2026-11-20 |
+| [willsmanuel123-creator/ai-manus](https://github.com/willsmanuel123-creator/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 11.7 | 2026-11-20 |
+| [thecoderrrer/ai-manus](https://github.com/thecoderrrer/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 11.7 | 2026-11-20 |
+| [google-deepmind/robotics-antigravity-plugin](https://github.com/google-deepmind/robotics-antigravity-plugin) | GDM Robotics Skills for agentic robotics workflows across simulation and real ro | 158 | 52.7 | 2026-11-20 |
 | [monirchemrubd/ai-manus](https://github.com/monirchemrubd/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 15.2 | 2026-11-17 |
 | [Abdoandqsnk/ai-manus](https://github.com/Abdoandqsnk/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 15.2 | 2026-11-17 |
 | [Kolg123/ai-manus](https://github.com/Kolg123/ai-manus) | AI Manus is a general-purpose AI Agent system that supports running various tool | 152 | 15.2 | 2026-11-17 |
@@ -117,11 +122,6 @@ Son 30 günde açılmış, yıldız hızı yüksek depolar. Yıldız hızı gün
 | [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) | Kubernetes 自动化运维与迁移工具：阿里云 3 主 HA、Compose→K8s、Terraform、Kubekey、部署验证与故障排查。Kuberne | 115 | 14.4 | 2026-10-27 |
 | [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) | 创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。 | 366 | 91.5 | 2026-10-27 |
 | [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | AI-first external attack surface assessment with continuous discovery, evidence- | 399 | 199.5 | 2026-10-27 |
-| [mw00/project-maya](https://github.com/mw00/project-maya) | Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B M | 1567 | 97.9 | 2026-10-23 |
-| [kukemc/bili-cli](https://github.com/kukemc/bili-cli) | 为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出 | 76 | 25.3 | 2026-10-23 |
-| [Harvil1/codeAgent](https://github.com/Harvil1/codeAgent) | CodeAgent is an open-source coding agent that lives in your terminal. It underst | 1026 | 48.9 | 2026-10-23 |
-| [StartLuxLabs/StartLux-Decision](https://github.com/StartLuxLabs/StartLux-Decision) | Open decision models from 0.8B to 27B: a calibrated probability for every option | 1377 | 59.9 | 2026-10-23 |
-| [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) | 1774 | 126.7 | 2026-10-23 |
 
 ## Nasıl katkı verirsin
 
@@ -131,6 +131,7 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 
 ## Değişiklik günlüğü
 
+- **2026-11-20** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-11-17** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-11-13** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-11-10** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
@@ -142,7 +143,6 @@ Listeden düşmesi gereken bir kayıt görürsen de issue aç. Zaten her güncel
 - **2026-10-20** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-16** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 - **2026-10-13** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
-- **2026-10-09** — 5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor
 
 ---
 
