@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-20",
+   "son_test": "2026-11-24",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "nanoware-photon",
+   "aciklama": "Photon by Nanoware AI — ~49 MB offline Python & TypeScript patch engine & MCP server.",
+   "surum": "0.1.0b1",
+   "ozet": "Photon by Nanoware AI — ~49 MB offline Python & TypeScript patch engine & MCP server.",
+   "surum_sayisi": 2,
+   "depo": "",
+   "lisans": "Apache-2.0",
+   "adres": "https://pypi.org/project/nanoware-photon/",
+   "puan": 65,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "uzmorph-segtok",
+   "aciklama": "Ending-Constrained Neural Morphological Segmentation and Tokenization for Uzbek",
+   "surum": "0.1.0",
+   "ozet": "Ending-Constrained Neural Morphological Segmentation and Tokenization for Uzbek",
+   "surum_sayisi": 1,
+   "depo": "https://github.com/UlugbekSalaev/UzMorphSegTok",
+   "lisans": "MIT",
+   "adres": "https://pypi.org/project/uzmorph-segtok/",
+   "puan": 65,
+   "gecti": true,
+   "sebep": "tek surum, terk edilmis olabilir",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "xarray-behave",
+   "aciklama": "xarray tools for behavioral data.",
+   "surum": "0.37.8",
+   "ozet": "xarray tools for behavioral data.",
+   "surum_sayisi": 197,
+   "depo": "https://github.com/janclemenslab/xarray-behave",
+   "lisans": "",
+   "adres": "https://pypi.org/project/xarray-behave/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "worktrust",
+   "aciklama": "The WorkTrust CLI, using the same measurement engine as npm",
+   "surum": "0.11.21",
+   "ozet": "The WorkTrust CLI, using the same measurement engine as npm",
+   "surum_sayisi": 46,
+   "depo": "https://github.com/fhomey/worktrust-cli/tree/main/python",
+   "lisans": "",
+   "adres": "https://pypi.org/project/worktrust/",
+   "puan": 85,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "finanfut-billing-sdk",
+   "aciklama": "Python SDK for Finanfut Billing External API",
+   "surum": "2.29.0",
+   "ozet": "Python SDK for Finanfut Billing External API",
+   "surum_sayisi": 54,
+   "depo": "https://github.com/finanfut/finanfut-billing",
+   "lisans": "MIT License\n        \n        Copyright (",
+   "adres": "https://pypi.org/project/finanfut-billing-sdk/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
   {
    "kaynak": "pypi",
    "ad": "ragpick",
@@ -1817,6 +1892,166 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "pierridotite/mobile-agent-testers",
+   "aciklama": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+   "yildiz": 1620,
+   "yildiz_hizi": 231.4,
+   "dil": "Python",
+   "adres": "https://github.com/pierridotite/mobile-agent-testers",
+   "konular": [
+    "accessibility-testing",
+    "ai-agents",
+    "ai-testing",
+    "android",
+    "android-emulator",
+    "claude",
+    "claude-code",
+    "e2e-testing",
+    "exploratory-testing",
+    "expo",
+    "flutter",
+    "github-actions",
+    "ios",
+    "ios-simulator",
+    "llm",
+    "mobile-testing",
+    "qa",
+    "react-native",
+    "test-automation",
+    "ui-testing"
+   ],
+   "yas_gun": 7,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "github",
+   "ad": "sybil-solutions/inference-optimisation-skill",
+   "aciklama": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+   "yildiz": 2368,
+   "yildiz_hizi": 338.3,
+   "dil": "Python",
+   "adres": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "konular": [
+    "agent-skill",
+    "benchmarking",
+    "claude-code",
+    "inference",
+    "llm",
+    "speculative-decoding"
+   ],
+   "yas_gun": 7,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "github",
+   "ad": "mdiri-ai/SoduWork",
+   "aciklama": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+   "yildiz": 7450,
+   "yildiz_hizi": 286.5,
+   "dil": "JavaScript",
+   "adres": "https://github.com/mdiri-ai/SoduWork",
+   "konular": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-workflows",
+    "ai-agents",
+    "ai-workflows",
+    "anti-slop",
+    "claude-code",
+    "codex",
+    "deepseek",
+    "electron",
+    "fastapi",
+    "harness",
+    "human-in-the-loop",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "opencode",
+    "plugin-system",
+    "self-hosted",
+    "team-collaboration"
+   ],
+   "yas_gun": 26,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Fanqi89/dsh-craft-anything",
+   "aciklama": "Craft Anything for DeepSeek Harness: mcp__craft__* MCP bridge to the local craft-anything CLI, with a clean-room/deep mode switch in the composer, a status page, a CLI runner and a SHA256-verified installer. 把 Craft Anything 接入 DSH 的插件。",
+   "yildiz": 444,
+   "yildiz_hizi": 24.7,
+   "dil": "JavaScript",
+   "adres": "https://github.com/Fanqi89/dsh-craft-anything",
+   "konular": [
+    "ai-tools",
+    "automation",
+    "cli",
+    "cli-runner",
+    "craft-anything",
+    "deepseek-harness",
+    "dsh-plugin",
+    "installer",
+    "javascript",
+    "mcp",
+    "mcp-bridge",
+    "nodejs",
+    "plugin",
+    "reverse-engineering"
+   ],
+   "yas_gun": 18,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
+  {
+   "kaynak": "github",
+   "ad": "w01fb0ss/PiBot",
+   "aciklama": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+   "yildiz": 531,
+   "yildiz_hizi": 177.0,
+   "dil": "TypeScript",
+   "adres": "https://github.com/w01fb0ss/PiBot",
+   "konular": [
+    "agent",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "android",
+    "automation",
+    "chatgpt",
+    "coding-agent",
+    "computer-use",
+    "desktop-app",
+    "electron",
+    "llm",
+    "local-first",
+    "mcp",
+    "multi-agent",
+    "ollama",
+    "openai",
+    "privacy",
+    "self-hosted",
+    "typescript"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-24"
+  },
   {
    "kaynak": "github",
    "ad": "osarhiemenaiyevbosa-cloud/ai-manus",
@@ -4982,6 +5217,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-11-24",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-11-20",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
