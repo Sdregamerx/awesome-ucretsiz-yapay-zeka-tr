@@ -8,7 +8,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 401,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -19,7 +19,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -30,7 +30,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -41,7 +41,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -52,7 +52,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -63,7 +63,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -74,7 +74,7 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   },
   {
@@ -85,11 +85,86 @@
    "kart": "hayır",
    "calisiyor": true,
    "http": 200,
-   "son_test": "2026-11-24",
+   "son_test": "2026-11-27",
    "ilk_eklendi": "2026-09-09"
   }
  ],
  "kutuphaneler": [
+  {
+   "kaynak": "pypi",
+   "ad": "gridding-py",
+   "aciklama": "Build geographical grids",
+   "surum": "1.1.1",
+   "ozet": "Build geographical grids",
+   "surum_sayisi": 14,
+   "depo": "https://github.com/cyrildever/gridding",
+   "lisans": "MIT License\n        \n        Copyright (",
+   "adres": "https://pypi.org/project/gridding-py/",
+   "puan": 70,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "naturgy-cli",
+   "aciklama": "JSON-first CLI for your own Naturgy España (Omega) account",
+   "surum": "0.1.1",
+   "ozet": "JSON-first CLI for your own Naturgy España (Omega) account",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/Jotis86/naturgy_cli",
+   "lisans": "",
+   "adres": "https://pypi.org/project/naturgy-cli/",
+   "puan": 70,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "jetstan-ev-software",
+   "aciklama": "The vehicle software payload for Jetstan electric vehicles - independently versioned from jetstan-agent (OTA delivery) and jetstan-cli (deploy tool).",
+   "surum": "0.1.22",
+   "ozet": "The vehicle software payload for Jetstan electric vehicles - independently versioned from jetstan-agent (OTA delivery) and jetstan-cli (deploy tool).",
+   "surum_sayisi": 21,
+   "depo": "",
+   "lisans": "",
+   "adres": "https://pypi.org/project/jetstan-ev-software/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "kaynak kod deposu yok",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "headline-antidote",
+   "aciklama": "Checks that the news headline an LLM reads is the text a human reader sees: homoglyphs, hidden HTML text, invisible characters.",
+   "surum": "0.1.1",
+   "ozet": "Checks that the news headline an LLM reads is the text a human reader sees: homoglyphs, hidden HTML text, invisible characters.",
+   "surum_sayisi": 2,
+   "depo": "https://github.com/NoCritics/headline-antidote",
+   "lisans": "",
+   "adres": "https://pypi.org/project/headline-antidote/",
+   "puan": 75,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "pypi",
+   "ad": "easyship-mcp",
+   "aciklama": "MCP server for Easyship — get shipping rates and track shipments",
+   "surum": "0.6.9",
+   "ozet": "MCP server for Easyship — get shipping rates and track shipments",
+   "surum_sayisi": 28,
+   "depo": "https://github.com/easyship/easyship-mcp-plugin",
+   "lisans": "",
+   "adres": "https://pypi.org/project/easyship-mcp/",
+   "puan": 90,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
   {
    "kaynak": "pypi",
    "ad": "nanoware-photon",
@@ -1892,6 +1967,163 @@
   }
  ],
  "araclar": [
+  {
+   "kaynak": "github",
+   "ad": "swipt-automation/swipt",
+   "aciklama": "The universal iOS automation platform",
+   "yildiz": 595,
+   "yildiz_hizi": 20.5,
+   "dil": "Go",
+   "adres": "https://github.com/swipt-automation/swipt",
+   "konular": [
+    "automation",
+    "ios",
+    "mcp"
+   ],
+   "yas_gun": 29,
+   "puan": 95,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Dodaios/ste80-humanizer",
+   "aciklama": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+   "yildiz": 1163,
+   "yildiz_hizi": 68.4,
+   "dil": "Python",
+   "adres": "https://github.com/Dodaios/ste80-humanizer",
+   "konular": [
+    "agent-skills",
+    "ai-writing",
+    "asd-ste100",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "humanize-ai-text",
+    "humanizer",
+    "karpathy",
+    "llm",
+    "plain-language",
+    "simplified-technical-english",
+    "writing"
+   ],
+   "yas_gun": 17,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "opensetlabs/openset-llm",
+   "aciklama": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+   "yildiz": 1946,
+   "yildiz_hizi": 149.7,
+   "dil": "Python",
+   "adres": "https://github.com/opensetlabs/openset-llm",
+   "konular": [
+    "ai",
+    "avx512",
+    "cpu-inference",
+    "edge-ai",
+    "gguf",
+    "inference-engine",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "no-gpu",
+    "on-device-ai",
+    "openai-api",
+    "openai-compatible",
+    "quantization",
+    "qwen",
+    "self-hosted",
+    "speculative-decoding",
+    "ternary"
+   ],
+   "yas_gun": 13,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "Basil0879/steam-game-idler",
+   "aciklama": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+   "yildiz": 681,
+   "yildiz_hizi": 227.0,
+   "dil": "TypeScript",
+   "adres": "https://github.com/Basil0879/steam-game-idler",
+   "konular": [
+    "achievement-management",
+    "archisteamfarm",
+    "asf",
+    "automation",
+    "desktop",
+    "idle-master",
+    "idlemaster",
+    "linux",
+    "open-source",
+    "steam",
+    "steam-api",
+    "steam-bot",
+    "steam-farm",
+    "steam-game-idler",
+    "steam-games",
+    "steam-idler",
+    "steam-inventory",
+    "steamkit2",
+    "steamworks",
+    "windows"
+   ],
+   "yas_gun": 3,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
+  {
+   "kaynak": "github",
+   "ad": "opensetlabs/openset-llm",
+   "aciklama": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+   "yildiz": 1946,
+   "yildiz_hizi": 149.7,
+   "dil": "Python",
+   "adres": "https://github.com/opensetlabs/openset-llm",
+   "konular": [
+    "ai",
+    "avx512",
+    "cpu-inference",
+    "edge-ai",
+    "gguf",
+    "inference-engine",
+    "llama-cpp",
+    "llm",
+    "llm-inference",
+    "local-ai",
+    "local-llm",
+    "no-gpu",
+    "on-device-ai",
+    "openai-api",
+    "openai-compatible",
+    "quantization",
+    "qwen",
+    "self-hosted",
+    "speculative-decoding",
+    "ternary"
+   ],
+   "yas_gun": 13,
+   "puan": 100,
+   "gecti": true,
+   "sebep": "",
+   "eklendi": "2026-11-27"
+  },
   {
    "kaynak": "github",
    "ad": "pierridotite/mobile-agent-testers",
@@ -5217,6 +5449,10 @@
   }
  ],
  "gunluk": [
+  {
+   "tarih": "2026-11-27",
+   "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
+  },
   {
    "tarih": "2026-11-24",
    "ozet": "5 kütüphane, 5 araç eklendi; 8/8 API çalışıyor"
